@@ -1,7 +1,7 @@
 body {
   width: 2794px;
   margin: 0 auto;
-  background: white;
+  background: black;
   height: 800px;
   display: block;
   position: relative;
@@ -12,13 +12,54 @@ html {
   height: 100%;
 
 }
-body::before {
-  content: "";
-  position: absolute;
-  left: 0;
-  right: 0;
-  background: url('images/1280_800.png');
-  height: 100%;
-  display: block;
-  opacity: .2;
+.cell_white1 {
+  width: 100px;
+  height: 36px;
+  top: 22px;
+  display: inline-block;
+  position: relative;
+    animation: tissue1 5s linear infinite;
+}
+.cell_white2 {
+  width: 100px;
+  height: 36px;
+  top: 390px;
+  left:0;
+  display: inline-block;
+  position: relative;
+    animation: tissue2 5s linear infinite;
+}
+@keyframes tissue1 {
+0% {top: 22px;}
+3% {top: 22px; left: 3%;}
+6% {top: 22px; left: 6%;}
+9% {top: 22px; left: 9%;}
+12% {top: 22px; left: 12%;}
+15% {top: 22px; left: 15%;}
+18% {top: 22px; left: 18%;}
+21% {top: 22px; left: 21%;}
+24% {top: 22px; left: 24%;}
+27% {top: 22px; left: 27%;}
+30% {top: 22px; left: 30%;}
+33% {top: 22px; left: 33%;}
+36% {top: 22px; left: 36%;}
+39% {top: 22px; left: 39%;}
+42% {top: 22px; left: 42%;}
+45% {top: 22px; left: 45%;}
+48% {top: 22px; left: 48%;}
+51% {top: 22px; left: 51%;}
+54% {top: 22px; left: 54%;}
+57% {top: 22px; left: 57%;}
+60% {top: 22px; left: 60%;}
+63% {top: 22px; left: 63%;}
+66% {top: 22px; left: 66%;}
+69% {top: 22px; left: 69%;}
+72% {top: 22px; left: 72%;}
+75% {top: 22px; left: 75%;}
+78% {top: 22px; left: 78%;}
+81% {top: 22px; left: 81%;}
+84% {top: 22px; left: 84%;}
+87% {top: 22px; left: 87%;}
+90% {top: 22px; left: 90%;}
+100% {top: 22px; left: 100%;}
 }
