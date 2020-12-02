@@ -27,7 +27,7 @@ html {
   display: inline-flex;
   position: relative;
   animation: tissue1 5s linear infinite;
-  animation-delay: -1s;
+  animation-delay: .4s;
 }
 .cell_white3 {
   width: 100px;
@@ -36,7 +36,7 @@ html {
   display: inline-flex;
   position: relative;
   animation: tissue1 5s linear infinite;
-  animation-delay: -1s;
+  animation-delay: .8s;
 }
 .cell_white4 {
   width: 100px;
@@ -45,7 +45,7 @@ html {
   display: inline-flex;
   position: relative;
   animation: tissue1 5s linear infinite;
-  animation-delay: -1s;
+  animation-delay: .12s;
 }
 .cell_white5 {
   width: 100px;
@@ -54,7 +54,7 @@ html {
   display: inline-flex;
   position: relative;
   animation: tissue1 5s linear infinite;
-  animation-delay: -1s;
+  animation-delay: .16s;
 }
 .cell_white6 {
   width: 100px;
@@ -63,7 +63,7 @@ html {
   display: inline-flex;
   position: relative;
   animation: tissue1 5s linear infinite;
-  animation-delay: -1s;
+  animation-delay: .20s;
 }
 .cell_white7 {
   width: 100px;
@@ -72,7 +72,7 @@ html {
   display: inline-flex;
   position: relative;
   animation: tissue1 5s linear infinite;
-  animation-delay: -1s;
+  animation-delay: .24s;
 }
 .cell_white8 {
   width: 100px;
@@ -81,7 +81,7 @@ html {
   display: inline-flex;
   position: relative;
   animation: tissue1 5s linear infinite;
-  animation-delay: -1s;
+  animation-delay: .28s;
 }
 .cell_white9 {
   width: 100px;
@@ -90,7 +90,87 @@ html {
   display: inline-flex;
   position: relative;
   animation: tissue1 5s linear infinite;
-  animation-delay: -1s;
+  animation-delay: .32s;
+}
+.cell_white10 {
+  width: 100px;
+  height: 36px;
+  top: 22px;
+  display: inline-flex;
+  position: relative;
+    animation: tissue1 5s linear infinite;
+}
+.cell_white11 {
+  width: 100px;
+  height: 36px;
+  top: 22px;
+  display: inline-flex;
+  position: relative;
+  animation: tissue1 5s linear infinite;
+  animation-delay: .4s;
+}
+.cell_white12 {
+  width: 100px;
+  height: 36px;
+  top: 22px;
+  display: inline-flex;
+  position: relative;
+  animation: tissue1 5s linear infinite;
+  animation-delay: .8s;
+}
+.cell_white13 {
+  width: 100px;
+  height: 36px;
+  top: 22px;
+  display: inline-flex;
+  position: relative;
+  animation: tissue1 5s linear infinite;
+  animation-delay: .12s;
+}
+.cell_white14 {
+  width: 100px;
+  height: 36px;
+  top: 22px;
+  display: inline-flex;
+  position: relative;
+  animation: tissue1 5s linear infinite;
+  animation-delay: .16s;
+}
+.cell_white15 {
+  width: 100px;
+  height: 36px;
+  top: 22px;
+  display: inline-flex;
+  position: relative;
+  animation: tissue1 5s linear infinite;
+  animation-delay: .20s;
+}
+.cell_white16 {
+  width: 100px;
+  height: 36px;
+  top: 22px;
+  display: inline-flex;
+  position: relative;
+  animation: tissue1 5s linear infinite;
+  animation-delay: .24s;
+}
+.cell_white17 {
+  width: 100px;
+  height: 36px;
+  top: 22px;
+  display: inline-flex;
+  position: relative;
+  animation: tissue1 5s linear infinite;
+  animation-delay: .28s;
+}
+.cell_white18 {
+  width: 100px;
+  height: 36px;
+  top: 22px;
+  display: inline-flex;
+  position: relative;
+  animation: tissue1 5s linear infinite;
+  animation-delay: .32s;
 }
 .cell_white2_down {
   width: 100px;
