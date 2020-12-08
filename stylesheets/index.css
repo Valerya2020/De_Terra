@@ -12,7 +12,7 @@ html {
   height: 100%;
 
 }
-.cell_white1 {
+.cell_white {
   width: 100px;
   height: 36px;
   top: 22px;
@@ -22,146 +22,310 @@ html {
   background: url('../images/cell_white1.png');
   animation: tissue1 20s linear infinite;
 }
-.cell_white2 {
-  animation: tissue1 5s linear infinite;
+#c2 {
   animation-delay: -.4s;
 }
-.cell_white3 {
-  animation: tissue1 5s linear infinite;
+#c3 {
   animation-delay: -.8s;
 }
-.cell_white4 {
-  animation: tissue1 5s linear infinite;
-  animation-delay: -.12s;
+#c4 {
+  animation-delay: -1.2s;
 }
-.cell_white5 {
-  animation: tissue1 5s linear infinite;
-  animation-delay: -.16s;
+#c5 {
+  animation-delay: -1.6s;
 }
-.cell_white6 {
-  animation: tissue1 5s linear infinite;
-  animation-delay: -.20s;
+#c6 {
+  animation-delay: -2s;
 }
-.cell_white7 {
-  animation: tissue1 5s linear infinite;
-  animation-delay: -.24s;
+#c7 {
+  animation-delay: -2.4s;
 }
-.cell_white8 {
-  animation: tissue1 5s linear infinite;
-  animation-delay: -.28s;
+#c8 {
+  animation-delay: -2.8s;
 }
-.cell_white9 {
-  animation: tissue1 5s linear infinite;
-  animation-delay: -.32s;
+#c9 {
+  animation-delay: -3.2s;
 }
-.cell_white10 {
-  animation: tissue1 5s linear infinite;
-  animation-delay: -.36s;
+#c10 {
+  animation-delay: -3.6s;
 }
-.cell_white11 {
-  animation: tissue1 5s linear infinite;
-  animation-delay: -.40s;
+#c11 {
+  animation-delay: -4s;
 }
-.cell_white12 {
-  animation: tissue1 5s linear infinite;
-  animation-delay: -.44s;
+#c12 {
+  animation-delay: -4.4s;
 }
-.cell_white13 {
-  animation: tissue1 5s linear infinite;
-  animation-delay: -.48s;
+#c13 {
+  animation-delay: -4.8s;
 }
-.cell_white14 {
-  animation: tissue1 5s linear infinite;
-  animation-delay: -.52s;
+#c14 {
+  animation-delay: -5.2s;
 }
-.cell_white15 {
-  animation: tissue1 5s linear infinite;
-  animation-delay: -.56s;
+#c15 {
+  animation-delay: -5.6s;
 }
-.cell_white16 {
-  animation: tissue1 5s linear infinite;
-  animation-delay: -.60s;
+#c16 {
+  animation-delay: -6.0s;
 }
-.cell_white17 {
-  animation: tissue1 5s linear infinite;
-  animation-delay: -.64s;
+#c17 {
+  animation-delay: -6.4s;
 }
-.cell_white18 {
-  animation: tissue1 5s linear infinite;
-  animation-delay: -.68s;
+#c18 {
+  animation-delay: -6.8s;
 }
-.cell_white19 {
-  animation: tissue1 5s linear infinite;
-  animation-delay: -.72s;
+#c19 {
+  animation-delay: -7.2s;
 }
-.cell_white20 {
-  animation: tissue1 5s linear infinite;
-  animation-delay: -.76s;
+#c20 {
+  animation-delay: -7.6s;
 }
-.cell_white21 {
-  animation: tissue1 5s linear infinite;
-  animation-delay: -.80s;
+#c21 {
+  animation-delay: -8s;
 }
-.cell_white22 {
-  animation: tissue1 5s linear infinite;
-  animation-delay: -.84s;
+#c22 {
+  animation-delay: -8.4s;
 }
-.cell_white23 {
-  animation: tissue1 5s linear infinite;
-  animation-delay: -.88s;
+#c23 {
+  animation-delay: -8.8s;
 }
-.cell_white24 {
-  animation: tissue1 5s linear infinite;
-  animation-delay: -.92s;
+#c24 {
+  animation-delay: -9.2s;
 }
-.cell_white25 {
-  animation: tissue1 5s linear infinite;
-  animation-delay: -.96s;
+#c25 {
+  animation-delay: -9.6s;
 }
-.cell_white26 {
-  animation: tissue1 5s linear infinite;
-  animation-delay: -.100s;
+#c26 {
+  animation-delay: -10s;
 }
-.cell_white27 {
-  animation: tissue1 5s linear infinite;
-  animation-delay: -.104s;
+#c27 {
+  animation-delay: -10.4s;
 }
-.cell_white28 {
-  animation: tissue1 5s linear infinite;
-  animation-delay: -.108s;
+#c28 {
+  animation-delay: -10.4s;
 }
-.cell_white29 {
-  animation: tissue1 5s linear infinite;
-  animation-delay: -.112s;
+#c29 {
+  animation-delay: -10.8s;
 }
-.cell_white30 {
-  animation: tissue1 5s linear infinite;
-  animation-delay: -.116s;
+#c30 {
+  animation-delay: -11.2s;
 }
-.cell_white31 {
-  animation: tissue1 5s linear infinite;
-  animation-delay: -.120s;
+#c31 {
+  animation-delay: -11.6s;
 }
-.cell_white32 {
-  animation: tissue1 5s linear infinite;
-  animation-delay: -.124s;
+#c32 {
+  animation-delay: -12s;
 }
-.cell_white33 {
-  animation: tissue1 5s linear infinite;
-  animation-delay: -.128s;
+#c33 {
+  animation-delay: -12.4s;
 }
-.cell_white34 {
-  animation: tissue1 5s linear infinite;
-  animation-delay: -.132s;
+#c34 {
+  animation-delay: -12.8s;
 }
-.cell_white35 {
-  animation: tissue1 5s linear infinite;
-  animation-delay: -.136s;
+#c35 {
+  animation-delay: -13.2s;
 }
-.cell_white36 {
-  animation: tissue1 5s linear infinite;
-  animation-delay: -.140s;
+#c36 {
+  animation-delay: -13.6s;
 }
+#c37 {
+  animation-delay: -14s;
+}
+#c38 {
+  animation-delay: -14.4s;
+}
+#c39 {
+  animation-delay: -14.8s;
+}
+#c40 {
+  animation-delay: -15.2s;
+}
+#c41 {
+  animation-delay: -15.6s;
+}
+#c42 {
+  animation-delay: -16s;
+}
+#c43 {
+  animation-delay: -16.4s;
+}
+#c44 {
+  animation-delay: -16.8s;
+}
+#c45 {
+  animation-delay: -17.2s;
+}
+#c46 {
+  animation-delay: -17.6s;
+}
+#c47 {
+  animation-delay: -18s;
+}
+#c48 {
+  animation-delay: -18.4s;
+}
+#c49 {
+  animation-delay: -18.8s;
+}
+#c50 {
+  animation-delay: -19.2s;
+}
+#c51 {
+  animation-delay: -19.6s;
+}
+#c52 {
+  animation-delay: -20s;
+}
+#c53 {
+  animation-delay: -20.4s;
+}
+#c54 {
+  animation-delay: -20.8s;
+}
+#c55 {
+  animation-delay: -21.2s;
+}
+#c56 {
+  animation-delay: -21.6s;
+}
+#c57 {
+  animation-delay: -22s;
+}
+#c58 {
+  animation-delay: -22.4s;
+}
+#c59 {
+  animation-delay: -22.8s;
+}
+#c60 {
+  animation-delay: -23.2s;
+}
+#c61 {
+  animation-delay: -23.6s;
+}
+#c62 {
+  animation-delay: -24s;
+}
+#c63 {
+  animation-delay: -24.4s;
+}
+#c64 {
+  animation-delay: -24.8s;
+}
+#c65 {
+  animation-delay: -25.2s;
+}
+#c66 {
+  animation-delay: -25.6s;
+}
+#c67 {
+  animation-delay: -26s;
+}
+#c68 {
+  animation-delay: -26.4s;
+}
+#c69 {
+  animation-delay: -26.8s;
+}
+#c70 {
+  animation-delay: -27.2s;
+}
+#c71 {
+  animation-delay: -27.6s;
+}
+#c72 {
+  animation-delay: -28s;
+}
+#c73 {
+  animation-delay: -28.4s;
+}
+#c74 {
+  animation-delay: -28.8s;
+}
+#c75 {
+  animation-delay: -29.2s;
+}
+#c76 {
+  animation-delay: -29.6s;
+}
+#c77 {
+  animation-delay: -30s;
+}
+#c78 {
+  animation-delay: -30.4s;
+}
+#c79 {
+  animation-delay: -30.8s;
+}
+#c80 {
+  animation-delay: -31.2s;
+}
+#c81 {
+  animation-delay: -31.6s;
+}
+#c82 {
+  animation-delay: -32s;
+}
+#c83 {
+  animation-delay: -32.4s;
+}
+#c84 {
+  animation-delay: -32.8s;
+}
+#c85 {
+  animation-delay: -33.2s;
+}
+#c86 {
+  animation-delay: -33.6s;
+}
+#c87 {
+  animation-delay: -34s;
+}
+#c88 {
+  animation-delay: -34.4s;
+}
+#c89 {
+  animation-delay: -34.8s;
+}
+#c90 {
+  animation-delay: -35.2s;
+}
+#c91 {
+  animation-delay: -35.6s;
+}
+#c92 {
+  animation-delay: -36s;
+}
+#c93 {
+  animation-delay: -36.4s;
+}
+#c94 {
+  animation-delay: -36.8s;
+}
+#c95 {
+  animation-delay: -37.2s;
+}
+#c96 {
+  animation-delay: -37.6s;
+}
+#c97 {
+  animation-delay: -38s;
+}
+#c98 {
+  animation-delay: -38.4s;
+}
+#c99 {
+  animation-delay: -38.8s;
+}
+#c100 {
+  animation-delay: -39.2s;
+}
+#c101 {
+  animation-delay: -40.6s;
+}
+#c102 {
+  animation-delay: -50s;
+}
+
 .cell_white_down {
   width: 100px;
   height: 36px;
@@ -180,11 +344,360 @@ html {
   display: inline-block;
   position: absolute;
   background: url('../images/cell_green1.png');
+  animation: tissue_green 15s linear infinite;
 }
+.cell_green_two {
+  width: 56px;
+  height: 126px;
+  top: 58px;
+  margin: 0;
+  display: inline-block;
+  position: absolute;
+  background: url('../images/cell_green2.png');
+  animation: tissue_green 15s linear infinite;
+}
+.cell_green_three {
+  width: 53px;
+  height: 130px;
+  top: 58px;
+  margin: 0;
+  display: inline-block;
+  position: absolute;
+  background: url('../images/cell_green3.png');
+  animation: tissue_green 15s linear infinite;
+}
+.cell_green_four {
+  width: 33px;
+  height: 125px;
+  top: 58px;
+  margin: 0;
+  display: inline-block;
+  position: absolute;
+  background: url('../images/cell_green4.png');
+  animation: tissue_green 15s linear infinite;
+}
+.cell_green_five {
+  width: 54px;
+  height: 141px;
+  top: 58px;
+  margin: 0;
+  display: inline-block;
+  position: absolute;
+  background: url('../images/cell_green5.png');
+  animation: tissue_green 15s linear infinite;
+}
+#b1 {
+  animation-delay: -.2s;
+}
+#c1 {
+  animation-delay: -.4s;
+}
+#d1 {
+  animation-delay: -.6s;
+}
+#i1 {
+  animation-delay: -.8s;
+}
+/* #a2 {
+  animation-delay: -1s;
+}
+#b2 {
+  animation-delay: -1.2s;
+}
+#c2 {
+  animation-delay: -1.4s;
+}
+#d2 {
+  animation-delay: -1.6s;
+}
+#i2 {
+  animation-delay: -1.8s;
+}
+#a3 {
+  animation-delay: -2s;
+}
+#b3 {
+  animation-delay: -2.2s;
+}
+#c3 {
+  animation-delay: -2.4s;
+}
+#d3 {
+  animation-delay: -2.6s;
+}
+#i3 {
+  animation-delay: -2.8s;
+}
+#a4 {
+  animation-delay: -3s;
+}
+#b4 {
+  animation-delay: -3.2s;
+}
+#c4 {
+  animation-delay: -3.4s;
+}
+#d4 {
+  animation-delay: -3.6s;
+}
+#i4 {
+  animation-delay: -3.8s;
+}
+#a5 {
+  animation-delay: -4s;
+}
+#b5 {
+  animation-delay: -4.2s;
+}
+#c5 {
+  animation-delay: -4.4s;
+}
+#d5 {
+  animation-delay: -4.6s;
+}
+#i5 {
+  animation-delay: -4.8s;
+}
+#a6 {
+  animation-delay: -5s;
+}
+#b6 {
+  animation-delay: -5.2s;
+}
+#c6 {
+  animation-delay: -5.4s;
+}
+#d6 {
+  animation-delay: -5.6s;
+}
+#i6 {
+  animation-delay: -5.8s;
+}
+#a7 {
+  animation-delay: -6s;
+}
+#b7 {
+  animation-delay: -6.2s;
+}
+#c7 {
+  animation-delay: -6.4s;
+}
+#d7 {
+  animation-delay: -6.6s;
+}
+#i7 {
+  animation-delay: -6.8s;
+}
+#a8 {
+  animation-delay: -7s;
+}
+#b8 {
+  animation-delay: -7.2s;
+}
+#c8 {
+  animation-delay: -7.4s;
+}
+#d8 {
+  animation-delay: -7.6s;
+}
+#i8 {
+  animation-delay: -7.8s;
+}
+#a9 {
+  animation-delay: -8s;
+}
+#b9 {
+  animation-delay: -8.2s;
+}
+#c9 {
+  animation-delay: -8.4s;
+}
+#d9 {
+  animation-delay: -8.6s;
+}
+#i9 {
+  animation-delay: -8.8s;
+}
+#a10 {
+  animation-delay: -9s;
+}
+#b10 {
+  animation-delay: -9.2s;
+}
+#c10 {
+  animation-delay: -9.4s;
+}
+#d10 {
+  animation-delay: -9.6s;
+}
+#i10 {
+  animation-delay: -9.8s;
+}
+#a11 {
+  animation-delay: -10s;
+}
+#b11 {
+  animation-delay: -10.2s;
+}
+#c11 {
+  animation-delay: -10.4s;
+}
+#d11 {
+  animation-delay: -10.6s;
+}
+#i11 {
+  animation-delay: -10.8s;
+}
+#a12 {
+  animation-delay: -11s;
+}
+#b12 {
+  animation-delay: -11.2s;
+}
+#c12 {
+  animation-delay: -11.4s;
+}
+#d12 {
+  animation-delay: -11.6s;
+}
+#i12 {
+  animation-delay: -11.8s;
+}
+#a13 {
+  animation-delay: -12s;
+}
+#b13 {
+  animation-delay: -12.2s;
+}
+#c13 {
+  animation-delay: -12.4s;
+}
+#d13 {
+  animation-delay: -12.6s;
+}
+#i13 {
+  animation-delay: -12.8s;
+}
+#a14 {
+  animation-delay: -13s;
+}
+#b14 {
+  animation-delay: -13.2s;
+}
+#c14 {
+  animation-delay: -13.4s;
+}
+#d14 {
+  animation-delay: -13.6s;
+}
+#i14 {
+  animation-delay: -13.8s;
+}
+#a15 {
+  animation-delay: -14s;
+}
+#b15 {
+  animation-delay: -14.2s;
+}
+#c15 {
+  animation-delay: -14.4s;
+}
+#d15 {
+  animation-delay: -14.6s;
+}
+#c15 {
+  animation-delay: -14.8s;
+}
+#d15 {
+  animation-delay: -15s;
+}
+#i15 {
+  animation-delay: -15.2s;
+}
+#a16 {
+  animation-delay: -15.4s;
+}
+#b16 {
+  animation-delay: -15.6s;
+}
+#c16 {
+  animation-delay: -15.8s;
+}
+#d16 {
+  animation-delay: -16s;
+}
+#i16 {
+  animation-delay: -16.2s;
+}
+#a17 {
+  animation-delay: -16.4s;
+}
+#b17 {
+  animation-delay: -16.6s;
+}
+#c17 {
+  animation-delay: -16.8s;
+}
+#d17 {
+  animation-delay: -17s;
+}
+#i17 {
+  animation-delay: -17.2s;
+}
+#a18 {
+  animation-delay: -17.4s;
+}
+#b18 {
+  animation-delay: -17.6s;
+}
+#c18 {
+  animation-delay: -17.8s;
+}
+#d18 {
+  animation-delay: -18s;
+}
+#i18 {
+  animation-delay: -18.2s;
+}
+#a19 {
+  animation-delay: -18.4s;
+}
+#b19 {
+  animation-delay: -18.6s;
+}
+#c19 {
+  animation-delay: -18.8s;
+}
+#d19 {
+  animation-delay: -19s;
+}
+#i19 {
+  animation-delay: -19.2s;
+}
+#a20 {
+  animation-delay: -19.4s;
+}
+#b20 {
+  animation-delay: -19.6s;
+}
+#c20 {
+  animation-delay: -19.8s;
+}
+#d20 {
+  animation-delay: -20s;
+}
+#i20 {
+  animation-delay: -20.2s;
+}
+#a21 {
+  animation-delay: -20.4s;
+} */
+
 @keyframes tissue1 {
-0% {top: 22px; left: 0%;}
-3% {top: 22px; left: 3%;}
-6% {top: 22px; left: 6%;}
+
+0% {top: 22px; left: -3%;}
+3% {top: 22px; left: 1%;}
+6% {top: 22px; left: 5%;}
 9% {top: 22px; left: 9%;}
 12% {top: 22px; left: 12%;}
 15% {top: 22px; left: 15%;}
@@ -193,9 +706,9 @@ html {
 24% {top: 72px; left: 24%; transform: rotate(24deg);}
 27% {top: 90px; left: 27%; transform: rotate(10deg);}
 30% {top: 135px; left: 30%; transform: rotate(35deg);}
-33% {top: 204px; left: 33%; transform: rotate(40deg);}
-36% {top: 250px; left: 36%; transform: rotate(25deg);}
-39% {top: 120px; left: 39%; transform: rotate(-50deg);}
+33% {top: 180px; left: 33%; transform: rotate(40deg);}
+36% {top: 190px; left: 36%; transform: rotate(25deg);}
+39% {top: 140px; left: 39%; transform: rotate(-47deg);}
 42% {top: 105px; left: 42%; transform: rotate(-25deg);}
 45% {top: 104px; left: 45%; transform: rotate(0deg);}
 48% {top: 131px; left: 48%; transform: rotate(30deg);}
@@ -214,9 +727,10 @@ html {
 87% {top: 22px; left: 87%;}
 90% {top: 22px; left: 90%;}
 100% {top: 22px; left: 100%;}
+
 }
 @keyframes tissue1_down {
-0% {top: 390px; left: -100px;}
+0% {top: 390px; left: 0%;}
 3% {top: 390px; left: 3%;}
 6% {top: 390px; left: 6%;}
 9% {top: 390px; left: 9%;}
@@ -248,4 +762,39 @@ html {
 87% {top: 433px; left: 87%;}
 90% {top: 433px; left: 90%;}
 100% {top: 433px; left: 100%;}
+}
+@keyframes tissue_green {
+  0% {top: 58px; left: 0%;}
+  3% {top: 58px; left: 3%;}
+  6% {top: 58px; left: 6%;}
+  9% {top: 58px; left: 9%;}
+  12% {top: 58px; left: 12%;}
+  15% {top: 58px; left: 15%;}
+  18% {top: 58px; left: 18%; transform: rotate(0deg);}
+  21% {top: 60px; left: 21%; transform: rotate(20deg);}
+  24% {top: 108px; left: 24%; transform: rotate(24deg);}
+  27% {top: 126px; left: 27%; transform: rotate(10deg);}
+  30% {top: 171px; left: 30%; transform: rotate(35deg);}
+  33% {top: 216px; left: 33%; transform: rotate(40deg);}
+  36% {top: 226px; left: 36%; transform: rotate(25deg);}
+  39% {top: 176px; left: 39%; transform: rotate(-47deg);}
+  42% {top: 141px; left: 42%; transform: rotate(-25deg);}
+  45% {top: 140px; left: 45%; transform: rotate(0deg);}
+  48% {top: 167px; left: 48%; transform: rotate(30deg);}
+  51% {top: 196px; left: 51%; transform: rotate(47deg);}
+  54% {top: 212px; left: 54%; transform: rotate(-30deg);}
+  57% {top: 146px; left: 57%; transform: rotate(-36deg);}
+  60% {top: 96px; left: 60%; transform: rotate(-26deg);}
+  63% {top: 66px; left: 63%; transform: rotate(-14deg);}
+  66% {top: 63px; left: 66%; transform: rotate(-6deg);}
+  69% {top: 61px; left: 69%; transform: rotate(-3deg);}
+  72% {top: 58px; left: 72%; transform: rotate(0deg);}
+  75% {top: 58px; left: 75%;}
+  78% {top: 58px; left: 78%;}
+  81% {top: 58px; left: 81%;}
+  84% {top: 58px; left: 84%;}
+  87% {top: 58px; left: 87%;}
+  90% {top: 58px; left: 90%;}
+  100% {top: 58px; left: 100%;}
+  }
 }
