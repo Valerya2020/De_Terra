@@ -12,6 +12,12 @@ html {
   height: 100%;
 
 }
+.main {
+  width: 2794px;
+  height: 800px;
+  position: relative;
+  overflow: hidden;
+}
 /* ПЕРВЫЙ СЛОЙ */
 .cell_white {
   width: 100px;
@@ -1266,259 +1272,259 @@ html {
   animation: tissue_green_down 15s linear infinite;
 }
 #bd1 {
-  animation-delay: -.2s;
+  animation-delay: -.5s;
 }
 #ed1 {
-  animation-delay: -.4s;
-}
-#dd1 {
-  animation-delay: -.6s;
-}
-#id1 {
-  animation-delay: -.8s;
-}
-#ad2 {
   animation-delay: -1s;
 }
-#bd2 {
-  animation-delay: -1.2s;
+#dd1 {
+  animation-delay: -1.5s;
 }
-#ed2 {
-  animation-delay: -1.4s;
-}
-#dd2 {
-  animation-delay: -1.6s;
-}
-#id2 {
-  animation-delay: -1.8s;
-}
-#ad3 {
+#id1 {
   animation-delay: -2s;
 }
-#bd3 {
-  animation-delay: -2.2s;
+#ad2 {
+  animation-delay: -2.5s;
 }
-#ed3 {
-  animation-delay: -2.4s;
-}
-#dd3 {
-  animation-delay: -2.6s;
-}
-#id3 {
-  animation-delay: -2.8s;
-}
-#ad4 {
+#bd2 {
   animation-delay: -3s;
 }
-#bd4 {
-  animation-delay: -3.2s;
+#ed2 {
+  animation-delay: -3.5s;
 }
-#ed4 {
-  animation-delay: -3.4s;
-}
-#dd4 {
-  animation-delay: -3.6s;
-}
-#id4 {
-  animation-delay: -3.8s;
-}
-#ad5 {
+#dd2 {
   animation-delay: -4s;
 }
-#bd5 {
-  animation-delay: -4.2s;
+#id2 {
+  animation-delay: -4.5s;
 }
-#ed5 {
-  animation-delay: -4.4s;
-}
-#dd5 {
-  animation-delay: -4.6s;
-}
-#id5 {
-  animation-delay: -4.8s;
-}
-#ad6 {
+#ad3 {
   animation-delay: -5s;
 }
-#bd6 {
-  animation-delay: -5.2s;
+#bd3 {
+  animation-delay: -5.5s;
 }
-#ed6 {
-  animation-delay: -5.4s;
-}
-#dd6 {
-  animation-delay: -5.6s;
-}
-#id6 {
-  animation-delay: -5.8s;
-}
-#ad7 {
+#ed3 {
   animation-delay: -6s;
 }
-#bd7 {
-  animation-delay: -6.2s;
+#dd3 {
+  animation-delay: -6.5s;
 }
-#ed7 {
-  animation-delay: -6.4s;
-}
-#dd7 {
-  animation-delay: -6.6s;
-}
-#id7 {
-  animation-delay: -6.8s;
-}
-#ad8 {
+#id3 {
   animation-delay: -7s;
 }
-#bd8 {
-  animation-delay: -7.2s;
+#ad4 {
+  animation-delay: -7.5s;
 }
-#ed8 {
-  animation-delay: -7.4s;
-}
-#dd8 {
-  animation-delay: -7.6s;
-}
-#id8 {
-  animation-delay: -7.8s;
-}
-#ad9 {
+#bd4 {
   animation-delay: -8s;
 }
-#bd9 {
-  animation-delay: -8.2s;
+#ed4 {
+  animation-delay: -8.5s;
 }
-#ed9 {
-  animation-delay: -8.4s;
-}
-#dd9 {
-  animation-delay: -8.6s;
-}
-#id9 {
-  animation-delay: -8.8s;
-}
-#ad10 {
+#dd4 {
   animation-delay: -9s;
 }
-#bd10 {
-  animation-delay: -9.2s;
+#id4 {
+  animation-delay: -9.5s;
 }
-#ed10 {
-  animation-delay: -9.4s;
-}
-#dd10 {
-  animation-delay: -9.6s;
-}
-#id10 {
-  animation-delay: -9.8s;
-}
-#ad11 {
+#ad5 {
   animation-delay: -10s;
 }
-#bd11 {
-  animation-delay: -10.2s;
+#bd5 {
+  animation-delay: -10.5s;
 }
-#ed11 {
-  animation-delay: -10.4s;
-}
-#dd11 {
-  animation-delay: -10.6s;
-}
-#id11 {
-  animation-delay: -10.8s;
-}
-#ad12 {
+#ed5 {
   animation-delay: -11s;
 }
-#bd12 {
-  animation-delay: -11.2s;
+#dd5 {
+  animation-delay: -11.5s;
 }
-#ed12 {
-  animation-delay: -11.4s;
-}
-#dd12 {
-  animation-delay: -11.6s;
-}
-#id12 {
-  animation-delay: -11.8s;
-}
-#ad13 {
+#id5 {
   animation-delay: -12s;
 }
-#bd13 {
-  animation-delay: -12.2s;
+#ad6 {
+  animation-delay: -12.5s;
 }
-#ed13 {
-  animation-delay: -12.4s;
-}
-#dd13 {
-  animation-delay: -12.6s;
-}
-#id13 {
-  animation-delay: -12.8s;
-}
-#ad14 {
+#bd6 {
   animation-delay: -13s;
 }
-#bd14 {
-  animation-delay: -13.2s;
+#ed6 {
+  animation-delay: -13.5s;
 }
-#ed14 {
-  animation-delay: -13.4s;
-}
-#dd14 {
-  animation-delay: -13.6s;
-}
-#id14 {
-  animation-delay: -13.8s;
-}
-#ad15 {
+#dd6 {
   animation-delay: -14s;
 }
-#bd15 {
-  animation-delay: -14.2s;
+#id6 {
+  animation-delay: -14.5s;
 }
-#ed15 {
-  animation-delay: -14.4s;
-}
-#dd15 {
-  animation-delay: -14.6s;
-}
-#cd15 {
-  animation-delay: -14.8s;
-}
-#dd15 {
+#ad7 {
   animation-delay: -15s;
 }
-#id15 {
-  animation-delay: -15.2s;
+#bd7 {
+  animation-delay: -15.5s;
 }
-#ad16 {
-  animation-delay: -15.4s;
-}
-#bd16 {
-  animation-delay: -15.6s;
-}
-#ed16 {
-  animation-delay: -15.8s;
-}
-#dd16 {
+#ed7 {
   animation-delay: -16s;
 }
-#id16 {
-  animation-delay: -16.2s;
+#dd7 {
+  animation-delay: -16.5s;
 }
-#ad17 {
+#id7 {
+  animation-delay: -17s;
+}
+#ad8 {
+  animation-delay: -17.5s;
+}
+#bd8 {
+  animation-delay: -18s;
+}
+#ed8 {
+  animation-delay: -18.5s;
+}
+#dd8 {
+  animation-delay: -19s;
+}
+#id8 {
+  animation-delay: -15.6s;
+}
+#ad9 {
+  animation-delay: -16s;
+}
+#bd9 {
   animation-delay: -16.4s;
 }
-#bd17 {
-  animation-delay: -16.6s;
-}
-#ed17 {
+#ed9 {
   animation-delay: -16.8s;
 }
+#dd9 {
+  animation-delay: -17.2s;
+}
+#id9 {
+  animation-delay: -17.6s;
+}
+#ad10 {
+  animation-delay: -18s;
+}
+#bd10 {
+  animation-delay: -18.4s;
+}
+#ed10 {
+  animation-delay: -18.8s;
+}
+#dd10 {
+  animation-delay: -19.2s;
+}
+#id10 {
+  animation-delay: -19.6s;
+}
+#ad11 {
+  animation-delay: -20s;
+}
+#bd11 {
+  animation-delay: -20.4s;
+}
+#ed11 {
+  animation-delay: -20.8s;
+}
+#dd11 {
+  animation-delay: -21.2s;
+}
+#id11 {
+  animation-delay: -21.6s;
+}
+#ad12 {
+  animation-delay: -22s;
+}
+#bd12 {
+  animation-delay: -22.4s;
+}
+#ed12 {
+  animation-delay: -22.8s;
+}
+#dd12 {
+  animation-delay: -23.2s;
+}
+#id12 {
+  animation-delay: -23.6s;
+}
+#ad13 {
+  animation-delay: -24s;
+}
+#bd13 {
+  animation-delay: -24.4s;
+}
+#ed13 {
+  animation-delay: -24.8s;
+}
+#dd13 {
+  animation-delay: -25.2s;
+}
+#id13 {
+  animation-delay: -25.6s;
+}
+#ad14 {
+  animation-delay: -26s;
+}
+#bd14 {
+  animation-delay: -26.4s;
+}
+#ed14 {
+  animation-delay: -26.8s;
+}
+#dd14 {
+  animation-delay: -27.2s;
+}
+#id14 {
+  animation-delay: -27.6s;
+}
+#ad15 {
+  animation-delay: -28s;
+}
+#bd15 {
+  animation-delay: -28.4s;
+}
+#ed15 {
+  animation-delay: -28.8s;
+}
+#dd15 {
+  animation-delay: -29.2s;
+}
+#cd15 {
+  animation-delay: -29.6s;
+}
+#dd15 {
+  animation-delay: -30s;
+}
+#id15 {
+  animation-delay: -30.4s;
+}
+#ad16 {
+  animation-delay: -30.8s;
+}
+#bd16 {
+  animation-delay: -31.2s;
+}
+#ed16 {
+  animation-delay: -31.6s;
+}
+#dd16 {
+  animation-delay: -32s;
+}
+#id16 {
+  animation-delay: -32.4s;
+}
+#ad17 {
+  animation-delay: -32.8s;
+}
+#bd17 {
+  animation-delay: -33.2s;
+}
+#ed17 {
+  animation-delay: -33.6s;
+}
 #dd17 {
-  animation-delay: -17s;
+  animation-delay: -34s;
 }
 #id17 {
   animation-delay: -17.2s;
@@ -1733,6 +1739,389 @@ html {
 #id31 {
   animation-delay: -31.2s;
 }
+
+/* ФИКСИРОВАННОЕ ПОЛЕ */
+
+.fix {
+  width: 872px;
+  height: 264px;
+  position: fixed;
+  background: url('../images/fix.svg');
+  bottom: 0px;
+  left: 200px;
+}
+
+/* ВОЛЬВОКС */
+
+.volvox {
+  width: 539px;
+  height: 533px;
+  position: absolute;
+  background: url('../images/volvox0.png');
+  top: 110px;
+  left: 1020px;
+  animation: volvox0 15s linear infinite;
+}
+.volvox1 {
+  width: 174px;
+  height: 174px;
+  position: absolute;
+  background: url('../images/volvox01.png');
+  top: 330px;
+  left: 1090px;
+  animation: volvox1 15s linear infinite;
+}
+.volvox2 {
+  width: 154px;
+  height: 153px;
+  position: absolute;
+  background: url('../images/volvox2.png');
+  top: 340px;
+  left: 1320px;
+  animation: volvox1 15s linear infinite;
+}
+
+/* СРЕДНЯЯ ЧЁРНАЯ ГУБЧАТАЯ ТКАНЬ */
+.middle_tissue_black {
+  width: 355px;
+  height: 217px;
+  position: absolute;
+  background: url('../images/middle_tissue.svg');
+  top: 160px;
+  left: 0px;
+  animation: middle_tissue_black 10s linear reverse infinite;
+}
+#gyb2 {
+  animation-delay: -.8s;
+}
+#gyb3 {
+  animation-delay: -1.6s;
+}
+#gyb4 {
+  animation-delay: -2.4s;
+}
+#gyb5 {
+  animation-delay: -3.2s;
+}
+#gyb6 {
+  animation-delay: -4s;
+}
+#gyb7 {
+  animation-delay: -4.8s;
+}
+#gyb8 {
+  animation-delay: -5.6s;
+}
+#gyb9 {
+  animation-delay: -6.4s;
+}
+#gyb10 {
+  animation-delay: -7.2s;
+}
+#gyb11 {
+  animation-delay: -8s;
+}
+#gyb12 {
+  animation-delay: -8.8s;
+}
+#gyb13 {
+  animation-delay: -9.6s;
+}
+#gyb14 {
+  animation-delay: -10.4s;
+}
+#gyb15 {
+  animation-delay: -11.2s;
+}
+
+/* СРЕДНИЙ ЗЕЛЁНЫЙ СЛОЙ СПРАВА */
+.root1 {
+  width: 414px;
+  height: 318px;
+  position: absolute;
+  background: url('../images/root1.png');
+  top: 100px;
+  right: 120px;
+}
+.root2 {
+  width: 154px;
+  height: 140px;
+  position: absolute;
+  background: url('../images/root2.png');
+  top: 150px;
+  right: 450px;
+}
+.root3 {
+  width: 106px;
+  height: 79px;
+  position: absolute;
+  background: url('../images/root3.png');
+  top: 350px;
+  right: 400px;
+}
+.root4 {
+  width: 114px;
+  height: 151px;
+  position: absolute;
+  background: url('../images/root4.png');
+  top: 250px;
+  right: 700px;
+}
+.root5 {
+  width: 327px;
+  height: 326px;
+  position: absolute;
+  background: url('../images/root5.png');
+  top: 240px;
+  right: 700px;
+}
+.root6 {
+  width: 97px;
+  height: 115px;
+  position: absolute;
+  background: url('../images/root6.png');
+  top: 250px;
+  right: 600px;
+}
+.root7 {
+  width: 227px;
+  height: 167px;
+  position: absolute;
+  background: url('../images/root7.png');
+  top: 270px;
+  right: 500px;
+}
+#rta2 {
+  top: 220px;
+  right: 800px;
+}
+#rta3 {
+  top: 160px;
+  right: 900px;
+  transform: rotate(190deg);
+}
+#rtb2 {
+  top: 220px;
+  right: 800px;
+}
+#rtb3 {
+  top: 160px;
+  right: 900px;
+  transform: rotate(180deg);
+}
+#rtc2 {
+  top: 220px;
+  right: 700px;
+  transform: rotate(45deg);
+}
+#rtc3 {
+  top: 240px;
+  right: 650px;
+  transform: rotate(30deg);
+}
+#rtd2 {
+  top: 170px;
+  right: 780px;
+  transform: rotate(70deg);
+}
+#rtd3 {
+  top: 170px;
+  right: 600px;
+  transform: rotate(100deg);
+}
+#rte2 {
+  top: 170px;
+  right: 1000px;
+  transform: rotate(80deg);
+}
+#rte3 {
+  top: 160px;
+  right: 900px;
+  transform: rotate(100deg);
+}
+#rtf2 {
+  top: 270px;
+  right: 1000px;
+  transform: rotate(80deg);
+}
+#rtf3 {
+  top: 360px;
+  right: 1190px;
+  transform: rotate(100deg);
+}
+#rtg2 {
+  top: 350px;
+  right: 1050px;
+}
+#rtg3 {
+  top: 260px;
+  right: 390px;
+  transform: rotate(100deg);
+}
+
+/* СРЕДНИЙ ЖЁЛТЫЙ СЛОЙ */
+.middle_tissue_right {
+  width: 373px;
+  height: 356px;
+  position: absolute;
+  background: url('../images/middle_tissue_right.png');
+  top: 120px;
+  right: 300px;
+}
+#mdr2 {
+  top: 120px;
+  right: 500px;
+  transform: rotate(90deg);
+}
+#mdr3 {
+  top: 120px;
+  right: 650px;
+  transform: rotate(180deg);
+}
+#mdr4 {
+  top: 120px;
+  right: 800px;
+  transform: rotate(270deg);
+}
+#mdr5 {
+  top: 120px;
+  right: 780px;
+}
+#mdr6 {
+  top: 120px;
+  right: 900px;
+  transform: rotate(80deg);
+}
+#mdr6 {
+  top: 150px;
+  right: 950px;
+  transform: rotate(45deg);
+}
+#mdr7 {
+  top: 150px;
+  right: 1000px;
+  transform: rotate(60deg);
+}
+
+/* КРУГИ С ГЛАЗОМ В ЦЕНРЕ */
+.circle1 {
+  width: 536px;
+  height: 536px;
+  position: absolute;
+  background: url('../images/circle1.png');
+  top: -9%;
+  right: -6%;
+  animation: volvox0 10s linear reverse infinite;
+}
+.circle2 {
+  width: 482px;
+  height: 481px;
+  position: absolute;
+  background: url('../images/circle2.png');
+  top: -6%;
+  right: -5%;
+}
+.circle3 {
+  width: 405px;
+  height: 405px;
+  position: absolute;
+  background: url('../images/circle3.png');
+  top: -1%;
+  right: -4%;
+  animation: volvox1 10s linear reverse infinite;
+}
+.circle4 {
+  width: 268px;
+  height: 268px;
+  position: absolute;
+  background: url('../images/circle4.png');
+  top: 6%;
+  right: -1%;
+  animation: volvox0 10s linear reverse infinite;
+}
+.ring {
+  width: 979px;
+  height: 882px;
+  position: absolute;
+  background: url('../images/ring.png');
+  top: -35%;
+  right: -14.5%;
+  animation: volvox1 10s linear reverse infinite;
+}
+.eye {
+  width: 279px;
+  height: 221px;
+  position: absolute;
+  background: url('../images/eye.png');
+  top: 9%;
+  right: -1.5%;
+}
+/* ТРАНС-СПОРЫ */
+.root_yellow1 {
+  width: 96px;
+  height: 37px;
+  position: absolute;
+  background: url('../images/root_yellow1.png');
+  bottom: 270px;
+  left: 100px;
+}
+.root_yellow2 {
+  width: 30px;
+  height: 23px;
+  position: absolute;
+  background: url('../images/root_yellow2.png');
+  bottom: 2px;
+  left: 5px;
+}
+.root_yellow3 {
+  width: 12px;
+  height: 20px;
+  position: absolute;
+  background: url('../images/root_yellow3.png');
+  bottom: 90px;
+  left: 70px;
+}
+.root_yellow4 {
+  width: 14px;
+  height: 11px;
+  position: absolute;
+  background: url('../images/root_yellow4.png');
+  bottom: 65px;
+  left: 35px;
+}
+.root_yellow5 {
+  width: 10px;
+  height: 12px;
+  position: absolute;
+  background: url('../images/root_yellow5.png');
+  bottom: 100px;
+  left: 5px;
+}
+.root_yellow6 {
+  width: 28px;
+  height: 28px;
+  position: absolute;
+  background: url('../images/root_yellow6.png');
+  bottom: 150px;
+  left: 35px;
+}
+.root_yellow7 {
+  width: 18px;
+  height: 19px;
+  position: absolute;
+  background: url('../images/root_yellow7.png');
+  bottom: 200px;
+  left: 20px;
+}
+.root_yellow8 {
+  width: 19px;
+  height: 24px;
+  position: absolute;
+  background: url('../images/root_yellow8.png');
+  bottom: 180px;
+  left: 70px;
+}
+
 /* АНИМАЦИЯ */
 @keyframes tissue1 {
 
@@ -1818,11 +2207,11 @@ html {
   30% {top: 171px; left: 30%; transform: rotate(35deg);}
   33% {top: 216px; left: 33%; transform: rotate(40deg);}
   36% {top: 226px; left: 36%; transform: rotate(25deg);}
-  39% {top: 176px; left: 39%; transform: rotate(-47deg);}
-  42% {top: 141px; left: 42%; transform: rotate(-25deg);}
-  45% {top: 140px; left: 45%; transform: rotate(0deg);}
-  48% {top: 167px; left: 48%; transform: rotate(30deg);}
-  51% {top: 196px; left: 51%; transform: rotate(47deg);}
+  39% {top: 170px; left: 39%; transform: rotate(-47deg);}
+  42% {top: 131px; left: 42%; transform: rotate(-25deg);}
+  45% {top: 130px; left: 45%; transform: rotate(0deg);}
+  48% {top: 157px; left: 48%; transform: rotate(30deg);}
+  51% {top: 186px; left: 51%; transform: rotate(47deg);}
   54% {top: 212px; left: 54%; transform: rotate(-30deg);}
   57% {top: 146px; left: 57%; transform: rotate(-36deg);}
   60% {top: 96px; left: 60%; transform: rotate(-26deg);}
@@ -1849,21 +2238,21 @@ html {
   21% {bottom: 360px; left: 21%; transform: rotate(-67deg);}
   24% {bottom: 343px; left: 24%; transform: rotate(-68deg);}
   27% {bottom: 307px; left: 27%; transform: rotate(-56deg);}
-  30% {bottom: 270px; left: 30%; transform: rotate(-55deg);}
-  33% {bottom: 225px; left: 33%; transform: rotate(-54deg);}
-  36% {bottom: 180px; left: 36%; transform: rotate(-45deg);}
-  39% {bottom: 140px; left: 39%; transform: rotate(-6deg);}
+  30% {bottom: 290px; left: 30%; transform: rotate(-55deg);}
+  33% {bottom: 245px; left: 33%; transform: rotate(-54deg);}
+  36% {bottom: 190px; left: 36%; transform: rotate(-45deg);}
+  39% {bottom: 150px; left: 39%; transform: rotate(-60deg);}
   42% {bottom: 142px; left: 42%; transform: rotate(-90deg);}
-  45% {bottom: 130px; left: 45%; transform: rotate(-7deg);}
-  48% {bottom: 150px; left: 48%; transform: rotate(-10deg);}
-  51% {bottom: 160px; left: 51%; transform: rotate(-17deg);}
-  54% {bottom: 220px; left: 54%; transform: rotate(-27deg);}
-  57% {bottom: 250px; left: 57%; transform: rotate(-36deg);}
-  60% {bottom: 300px; left: 60%; transform: rotate(-26deg);}
-  63% {bottom: 305px; left: 63%; transform: rotate(-14deg);}
-  66% {bottom: 310px; left: 66%; transform: rotate(-6deg);}
-  69% {bottom: 315px; left: 69%; transform: rotate(-3deg);}
-  72% {bottom: 367px; left: 72%; transform: rotate(-90deg);}
+  45% {bottom: 130px; left: 45%; transform: rotate(-95deg);}
+  48% {bottom: 150px; left: 48%; transform: rotate(-100deg);}
+  51% {bottom: 160px; left: 51%; transform: rotate(-110deg);}
+  54% {bottom: 190px; left: 54%; transform: rotate(-120deg);}
+  57% {bottom: 240px; left: 57%; transform: rotate(-115deg);}
+  60% {bottom: 290px; left: 60%; transform: rotate(-110deg);}
+  63% {bottom: 305px; left: 63%; transform: rotate(-105deg);}
+  66% {bottom: 310px; left: 66%; transform: rotate(-100deg);}
+  69% {bottom: 315px; left: 69%; transform: rotate(-95deg);}
+  72% {bottom: 317px; left: 72%; transform: rotate(-90deg);}
   75% {bottom: 317px; left: 75%; transform: rotate(-90deg);}
   78% {bottom: 317px; left: 78%; transform: rotate(-90deg);}
   81% {bottom: 317px; left: 81%; transform: rotate(-90deg);}
@@ -1872,4 +2261,20 @@ html {
   90% {bottom: 317px; left: 90%; transform: rotate(-90deg);}
   100% {bottom: 317px; left: 100%; transform: rotate(-90deg);}
   }
+  @keyframes volvox0 {
+    0% {transform: rotate(0deg);}
+    100% {transform: rotate(360deg);}
+  }
+  @keyframes volvox1 {
+    0% {transform: rotate(360deg);}
+    100% {transform: rotate(0deg);}
+  }
+@keyframes middle_tissue_black {
+0% {top: 160px; left: -14%;}
+1% {top: 160px; left: -12%;}
+20% {top: 160px; left: 10%; transform: rotate(0deg);}
+50% {top: 360px; left: 34%; transform: rotate(45deg);}
+55% {top: 410px; left: 37.1%; transform: rotate(0deg);}
+60% {top: 420px; left: 37.2%; transform: rotate(0deg);}
+100% {top: 430px; left: 37.5%; transform: rotate(0deg);}
 }
