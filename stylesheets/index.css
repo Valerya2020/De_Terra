@@ -2121,6 +2121,11 @@ html {
   bottom: 180px;
   left: 70px;
 }
+#trans_a1 {
+  bottom: 150px;
+  left: 100px;
+  transform: rotate(60deg);
+}
 
 /* АНИМАЦИЯ */
 @keyframes tissue1 {
