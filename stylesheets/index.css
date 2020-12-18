@@ -2121,10 +2121,15 @@ html {
   bottom: 180px;
   left: 70px;
 }
-#trans_a1 {
+#trans_a2 {
   bottom: 150px;
   left: 100px;
   transform: rotate(60deg);
+}
+#trans_b2 {
+  bottom: 250px;
+  left: 370px;
+  transform: rotate(40deg);
 }
 
 /* АНИМАЦИЯ */

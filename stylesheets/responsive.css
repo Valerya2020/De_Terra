@@ -1,0 +1,36 @@
+/* 1680x1050 (MacBook Pro ’15.4) */
+@media only screen and (min-device-weight: 1680px) {
+
+}
+
+/* 1440x900 (MacBook Pro ’15) */
+@media only screen and (min-device-weight: 1440px) and (max-device-weight: 1680px) {
+
+}
+
+/* 1366x768 (MacBook Air ’11.6) */
+@media only screen and (min-device-weight: 1366px) and (max-device-weight: 1440px) {
+
+}
+
+/* 1280x800 (MacBook Pro ’13) - НАЧАЛЬНЫЙ */
+
+/* 1024x768 (iPad Landscape) */
+@media only screen and (min-device-weight: 1024px) and (max-device-weight: 1080px) {
+
+}
+
+/* 768x1024 (iPad Portrait) */
+@media only screen and (min-device-weight: 768px) and (max-device-weight: 1024px) {
+
+}
+
+/* 320–475 (iPhone SE) */
+@media only screen and (min-device-weight: 475px) and (max-device-weight: 768px) {
+
+}
+
+/* MY PHONE */
+@media only screen and (min-device-weight: 360px) and (max-device-weight: 7475px) {
+
+}
