@@ -10,6 +10,46 @@
 
 /* 1366x768 (MacBook Air ’11.6) */
 @media only screen and (min-device-weight: 1366px) and (max-device-weight: 1440px) {
+  .fix {
+    bottom: 5px;
+    left: 100px;
+    transform: scale(1.2);
+  }
+  @keyframes tissue1 {
+  0% {top: 14px; left: -3%;}
+  3% {top: 14px; left: 1%;}
+  6% {top: 14px; left: 5%;}
+  9% {top: 14px; left: 9%;}
+  12% {top: 14px; left: 12%;}
+  15% {top: 14px; left: 15%;}
+  18% {top: 14px; left: 18%; transform: rotate(0deg);}
+  21% {top: 24px; left: 21%; transform: rotate(20deg);}
+  24% {top: 72px; left: 24%; transform: rotate(24deg);}
+  27% {top: 90px; left: 27%; transform: rotate(10deg);}
+  30% {top: 135px; left: 30%; transform: rotate(35deg);}
+  33% {top: 180px; left: 33%; transform: rotate(40deg);}
+  36% {top: 190px; left: 36%; transform: rotate(25deg);}
+  39% {top: 140px; left: 39%; transform: rotate(-47deg);}
+  42% {top: 105px; left: 42%; transform: rotate(-25deg);}
+  45% {top: 104px; left: 45%; transform: rotate(0deg);}
+  48% {top: 131px; left: 48%; transform: rotate(30deg);}
+  51% {top: 160px; left: 51%; transform: rotate(47deg);}
+  54% {top: 176px; left: 54%; transform: rotate(-30deg);}
+  57% {top: 110px; left: 57%; transform: rotate(-36deg);}
+  60% {top: 60px; left: 60%; transform: rotate(-26deg);}
+  63% {top: 30px; left: 63%; transform: rotate(-14deg);}
+  66% {top: 27px; left: 66%; transform: rotate(-6deg);}
+  69% {top: 25px; left: 69%; transform: rotate(-3deg);}
+  72% {top: 22px; left: 72%; transform: rotate(0deg);}
+  75% {top: 22px; left: 75%;}
+  78% {top: 22px; left: 78%;}
+  81% {top: 22px; left: 81%;}
+  84% {top: 22px; left: 84%;}
+  87% {top: 22px; left: 87%;}
+  90% {top: 22px; left: 90%;}
+  100% {top: 22px; left: 100%;}
+  }
+
 
 }
 

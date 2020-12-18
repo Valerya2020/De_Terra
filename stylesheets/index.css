@@ -1757,7 +1757,7 @@ html {
   width: 539px;
   height: 533px;
   position: absolute;
-  background: url('../images/volvox0.png');
+  background: url('../images/volvox0.svg');
   top: 110px;
   left: 1020px;
   animation: volvox0 15s linear infinite;
