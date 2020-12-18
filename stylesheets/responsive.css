@@ -1,35 +1,31 @@
 /* 1680x1050 (MacBook Pro ’15.4) */
-@media only screen and (min-weight: 1680px) {
+@media only screen and (min-weidth: 1680px) {
 
 }
 
 /* 1440x900 (MacBook Pro ’15) */
-@media only screen and (min-weight: 1440px) and (max-weight: 1680px) {
+@media only screen and (min-width: 1440px) and (max-width: 1680px) {
 
 }
 
 /* 1366x768 (MacBook Air ’11.6) */
-@media only screen and (min-weight: 1366px) and (max-weight: 1440px) {
+@media only screen and (min-width: 1366px) and (max-width: 1440px) {
   .main {
-    weight: 2999px;
+    width: 2999px;
     height: 768px;
   }
   .fix {
-    bottom: 5px;
-    left: 0px;
-    transform: scale(1.2);
-    opacity: 0;
+    width: 957px;
+    height: 258px;
+    bottom: 70px;
+    left: 120px;
+    background: url('../images/fix_1366.svg');
   }
   .cell_white {
     top: 14px;
   }
   @keyframes tissue1 {
   0% {top: 14px; left: -3%;}
-  3% {top: 14px; left: 1%;}
-  6% {top: 14px; left: 5%;}
-  9% {top: 14px; left: 9%;}
-  12% {top: 14px; left: 12%;}
-  15% {top: 14px; left: 15%;}
   18% {top: 14px; left: 18%; transform: rotate(0deg);}
   21% {top: 24px; left: 21%; transform: rotate(20deg);}
   24% {top: 72px; left: 24%; transform: rotate(24deg);}
@@ -64,21 +60,21 @@
 /* 1280x800 (MacBook Pro ’13) - НАЧАЛЬНЫЙ */
 
 /* 1024x768 (iPad Landscape) */
-@media only screen and (min-weight: 1024px) and (max-weight: 1080px) {
+@media only screen and (min-width: 1024px) and (max-width: 1080px) {
 
 }
 
 /* 768x1024 (iPad Portrait) */
-@media only screen and (min-weight: 768px) and (max-weight: 1024px) {
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
 
 }
 
 /* 320–475 (iPhone SE) */
-@media only screen and (min-weight: 475px) and (max-weight: 768px) {
+@media only screen and (min-width: 475px) and (max-width: 768px) {
 
 }
 
 /* MY PHONE */
-@media only screen and (min-weight: 360px) and (max-weight: 475px) {
+@media only screen and (min-widht: 360px) and (max-widht: 475px) {
 
 }
