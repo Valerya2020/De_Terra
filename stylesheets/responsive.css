@@ -8,7 +8,6 @@
     width: 3719px;
     height: 1050px;
 }
-}
 .volvox {
   top:150px;
   left: 1450px;
@@ -24,6 +23,27 @@
 .cell_white {
   top: 72px;
 }
+.cell_green_one_down {
+  animation-duration: 18s;
+}
+.cell_green_two_down {
+  animation-duration: 18s;
+}
+.cell_green_three_down {
+  animation-duration: 18s;
+}
+.cell_green_four_down {
+  animation-duration: 18s;
+}
+.cell_green_five_down {
+  animation-duration: 18s;
+}
+.middle_tissue_black {
+  width: 555px;
+  height: 334px;
+  background: url('../images/middle_tissue_big.svg');
+}
+
 @keyframes tissue1 {
 0% {top: calc(66px + 0%); left: -3%;}
 18% {top: calc(66px + 0%); left: 18%; transform: rotate(0deg);}
@@ -92,6 +112,38 @@
   69% {top: calc(435px + 5%); left: 69%; transform: rotate(-3deg);}
   72% {top: calc(433px + 5%); left: 72%; transform: rotate(0deg);}
   100% {top: calc(433px + 5%); left: 100%;}
+  }
+  @keyframes tissue_green_down {
+  0% {bottom: calc(352px + 19%); left: -3%; transform: rotate(-90deg);}
+  18% {bottom: calc(352px + 19%); left: 18%; transform: rotate(-90deg);}
+  21% {bottom: calc(352px + 19%); left: 21%; transform: rotate(-67deg);}
+  24% {bottom: calc(335px + 19%); left: 24%; transform: rotate(-68deg);}
+  27% {bottom: calc(299px + 19%); left: 27%; transform: rotate(-56deg);}
+  30% {bottom: calc(282px + 19%); left: 30%; transform: rotate(-55deg);}
+  33% {bottom: calc(237px + 19%); left: 33%; transform: rotate(-54deg);}
+  36% {bottom: calc(182px + 19%); left: 36%; transform: rotate(-45deg);}
+  39% {bottom: calc(142px + 19%); left: 39%; transform: rotate(-60deg);}
+  42% {bottom: calc(134px + 19%); left: 42%; transform: rotate(-90deg);}
+  45% {bottom: calc(128px + 19%); left: 45%; transform: rotate(-95deg);}
+  48% {bottom: calc(142px + 19%); left: 48%; transform: rotate(-100deg);}
+  51% {bottom: calc(152px + 19%); left: 51%; transform: rotate(-110deg);}
+  54% {bottom: calc(182px + 19%); left: 54%; transform: rotate(-120deg);}
+  57% {bottom: calc(232px + 19%); left: 57%; transform: rotate(-115deg);}
+  60% {bottom: calc(282px + 19%); left: 60%; transform: rotate(-110deg);}
+  63% {bottom: calc(297px + 19%); left: 63%; transform: rotate(-105deg);}
+  66% {bottom: calc(302px + 19%); left: 66%; transform: rotate(-100deg);}
+  69% {bottom: calc(307px + 19%); left: 69%; transform: rotate(-95deg);}
+  72% {bottom: calc(309px + 19%); left: 72%; transform: rotate(-90deg);}
+  100% {bottom: calc(309px + 19%); left: 100%; transform: rotate(-90deg);}
+  }
+  @keyframes middle_tissue_black {
+  0% {top: 180px; left: -14%; background-size: 90%; background-repeat: no-repeat;}
+  1% {top: 180px; left: -12%; background-size: 90%; background-repeat: no-repeat;}
+  21% {top: 180px; left: 11%; transform: rotate(0deg); background-size: 87%; background-repeat: no-repeat;}
+  51% {top: 340px; left: 35%; transform: rotate(45deg); background-size: 84%; background-repeat: no-repeat;}
+  55% {top: 410px; left: 40.1%; transform: rotate(0deg); background-size: 81%; background-repeat: no-repeat;}
+  60% {top: 430px; left: 40.2%; transform: rotate(0deg); background-size: 78%; background-repeat: no-repeat;}
+  100% {top: 430px; left: 41%; transform: rotate(0deg); background-size: 20%; background-repeat: no-repeat;}
   }
 
 }
