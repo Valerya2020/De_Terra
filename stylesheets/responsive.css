@@ -43,6 +43,16 @@
   height: 334px;
   background: url('../images/middle_tissue_big.svg');
 }
+.cell_white_big {
+  width: 100px;
+  height: 36px;
+  bottom: 230px;
+  margin: 0;
+  display: block;
+  position: absolute;
+  background: url('../images/cell_white1.png');
+  animation: tissue_big 15s linear infinite;
+}
 
 @keyframes tissue1 {
 0% {top: calc(66px + 0%); left: -3%;}
@@ -144,6 +154,40 @@
   55% {top: 410px; left: 40.1%; transform: rotate(0deg); background-size: 81%; background-repeat: no-repeat;}
   60% {top: 430px; left: 40.2%; transform: rotate(0deg); background-size: 78%; background-repeat: no-repeat;}
   100% {top: 430px; left: 41%; transform: rotate(0deg); background-size: 20%; background-repeat: no-repeat;}
+  }
+  @keyframes tissue_big {
+  0% {bottom: 230px; left: -3%;}
+  3% {bottom: 230px; left: 1%;}
+  6% {bottom: 230px; left: 5%;}
+  9% {bottom: 230px; left: 9%;}
+  12% {bottom: 230px; left: 12%;}
+  15% {bottom: 235px; left: 15%;}
+  18% {bottom: 245px; left: 18%; transform: rotate(0deg);}
+  21% {bottom: 254px; left: 21%; transform: rotate(0deg);}
+  24% {bottom: 270px; left: 24%;}
+  27% {bottom: 322px; left: 27%;}
+  30% {bottom: 382px; left: 30%;}
+  33% {bottom: 425px; left: 33%;}
+  36% {bottom: 390px; left: 36%;}
+  39% {bottom: 348px; left: 39%;}
+  42% {bottom: 310px; left: 42%;}
+  45% {bottom: 308px; left: 45%;}
+  48% {bottom: 348px; left: 48%;}
+  51% {bottom: 353px; left: 51%;}
+  54% {bottom: 390px; left: 54%;}
+  57% {bottom: 424px; left: 57%;}
+  60% {bottom: 383px; left: 60%;}
+  63% {bottom: 321px; left: 63%;}
+  66% {bottom: 270px; left: 66%;}
+  69% {bottom: 254px; left: 69%;}
+  72% {bottom: 230px; left: 72%;}
+  75% {bottom: 230px; left: 75%;}
+  78% {bottom: 230px; left: 78%;}
+  81% {bottom: 230px; left: 81%;}
+  84% {bottom: 230px; left: 84%;}
+  87% {bottom: 230px; left: 87%;}
+  90% {bottom: 230px; left: 90%;}
+  100% {bottom: 230px; left: 100%;}
   }
 
 }
