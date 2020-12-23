@@ -51,7 +51,157 @@
   display: block;
   position: absolute;
   background: url('../images/cell_white1.png');
-  animation: tissue_big 15s linear infinite;
+  animation: tissue_big 20s linear infinite;
+}
+#t2b {
+  animation-delay: -.4s;
+}
+#t3b {
+  animation-delay: -.8s;
+}
+#t4b {
+  animation-delay: -1.2s;
+}
+#t5b {
+  animation-delay: -1.6s;
+}
+#t6b {
+  animation-delay: -2s;
+}
+#t7b {
+  animation-delay: -2.4s;
+}
+#t8b {
+  animation-delay: -2.8s;
+}
+#t9b {
+  animation-delay: -3.2s;
+}
+#t10b {
+  animation-delay: -3.6s;
+}
+#t11b {
+  animation-delay: -4s;
+}
+#t12b {
+  animation-delay: -4.4s;
+}
+#t13b {
+  animation-delay: -4.8s;
+}
+#t14b {
+  animation-delay: -5.2s;
+}
+#t15b {
+  animation-delay: -5.6s;
+}
+#t16b {
+  animation-delay: -6s;
+}
+#t17b {
+  animation-delay: -6.4s;
+}
+#t18b {
+  animation-delay: -6.8s;
+}
+#t19b {
+  animation-delay: -7.2s;
+}
+#t20b {
+  animation-delay: -7.6s;
+}
+#t21b {
+  animation-delay: -8s;
+}
+#t22b {
+  animation-delay: -8.4s;
+}
+#t23b {
+  animation-delay: -8.8s;
+}
+#t24b {
+  animation-delay: -9.2s;
+}
+#t25b {
+  animation-delay: -9.6s;
+}
+#t26b {
+  animation-delay: -10s;
+}
+#t27b {
+  animation-delay: -10.4s;
+}
+#t28b {
+  animation-delay: -10.8s;
+}
+#t29b {
+  animation-delay: -11.2s;
+}
+#t30b {
+  animation-delay: -11.4s;
+}
+#t31b {
+  animation-delay: -11.8s;
+}
+#t32b {
+  animation-delay: -12.2s;
+}
+#t33b {
+  animation-delay: -12.6s;
+}
+#t34b {
+  animation-delay: -13s;
+}
+#t35b {
+  animation-delay: -13.4s;
+}
+#t36b {
+  animation-delay: -13.8s;
+}
+#t37b {
+  animation-delay: -14.2s;
+}
+#t38b {
+  animation-delay: -14.6s;
+}
+#t39b {
+  animation-delay: -15s;
+}
+#t40b {
+  animation-delay: -15.4s;
+}
+#t41b {
+  animation-delay: -15.8s;
+}
+#t42b {
+  animation-delay: -16.2s;
+}
+#t43b {
+  animation-delay: -16.6s;
+}
+#t44b {
+  animation-delay: -17s;
+}
+#t45b {
+  animation-delay: -17.4s;
+}
+#t46b {
+  animation-delay: -17.8s;
+}
+#t47b {
+  animation-delay: -18.2s;
+}
+#t48b {
+  animation-delay: -18.6s;
+}
+#t49b {
+  animation-delay: -19s;
+}
+#t50b {
+  animation-delay: -19.4s;
+}
+#t51b {
+  animation-delay: -19.8s;
 }
 
 @keyframes tissue1 {
@@ -60,17 +210,17 @@
 21% {top: calc(68px + 0%); left: 21%; transform: rotate(20deg);}
 24% {top: calc(116px + 0%); left: 24%; transform: rotate(24deg);}
 27% {top: calc(134px + 0%); left: 27%; transform: rotate(10deg);}
-30% {top: calc(179px + 0%); left: 30%; transform: rotate(35deg);}
-33% {top: calc(224px + 0%); left: 33%; transform: rotate(40deg);}
-36% {top: calc(234px + 0%); left: 36%; transform: rotate(25deg);}
-39% {top: calc(184px + 0%); left: 39%; transform: rotate(-47deg);}
+30% {top: calc(179px + 0%); left: 30%; transform: rotate(15deg);}
+33% {top: calc(224px + 0%); left: 33%; transform: rotate(20deg);}
+36% {top: calc(234px + 0%); left: 36%; transform: rotate(5deg);}
+39% {top: calc(184px + 0%); left: 39%; transform: rotate(-37deg);}
 42% {top: calc(149px + 0%); left: 42%; transform: rotate(-25deg);}
 45% {top: calc(148px + 0%); left: 45%; transform: rotate(0deg);}
 48% {top: calc(175px + 0%); left: 48%; transform: rotate(30deg);}
-51% {top: calc(204px + 0%); left: 51%; transform: rotate(47deg);}
-54% {top: calc(220px + 0%); left: 54%; transform: rotate(-30deg);}
-57% {top: calc(154px + 0%); left: 57%; transform: rotate(-36deg);}
-60% {top: calc(104px + 0%); left: 60%; transform: rotate(-26deg);}
+51% {top: calc(204px + 0%); left: 51%; transform: rotate(37deg);}
+54% {top: calc(220px + 0%); left: 54%; transform: rotate(-20deg);}
+57% {top: calc(154px + 0%); left: 57%; transform: rotate(-26deg);}
+60% {top: calc(104px + 0%); left: 60%; transform: rotate(-16deg);}
 63% {top: calc(80px + 0%); left: 663; transform: rotate(-14deg);}
 66% {top: calc(71px + 0%); left: 696; transform: rotate(-6deg);}
 69% {top: calc(69px + 0%); left: 769; transform: rotate(-3deg);}
@@ -161,39 +311,39 @@
   6% {bottom: 230px; left: 5%;}
   9% {bottom: 230px; left: 9%;}
   12% {bottom: 230px; left: 12%;}
-  15% {bottom: 235px; left: 15%;}
-  18% {bottom: 245px; left: 18%; transform: rotate(0deg);}
-  21% {bottom: 254px; left: 21%; transform: rotate(0deg);}
+  15% {bottom: 230px; left: 15%;}
+  18% {bottom: 230px; left: 18%; transform: rotate(0deg);}
+  21% {bottom: 240px; left: 21%;}
   24% {bottom: 270px; left: 24%;}
-  27% {bottom: 322px; left: 27%;}
-  30% {bottom: 382px; left: 30%;}
-  33% {bottom: 425px; left: 33%;}
-  36% {bottom: 390px; left: 36%;}
-  39% {bottom: 348px; left: 39%;}
-  42% {bottom: 310px; left: 42%;}
-  45% {bottom: 308px; left: 45%;}
-  48% {bottom: 348px; left: 48%;}
-  51% {bottom: 353px; left: 51%;}
-  54% {bottom: 390px; left: 54%;}
-  57% {bottom: 424px; left: 57%;}
-  60% {bottom: 383px; left: 60%;}
-  63% {bottom: 321px; left: 63%;}
-  66% {bottom: 270px; left: 66%;}
-  69% {bottom: 254px; left: 69%;}
+  27% {bottom: 322px; left: 27%; transform: rotate(-40deg);}
+  30% {bottom: 382px; left: 30%; transform: rotate(-10deg);}
+  33% {bottom: 410px; left: 33%; transform: rotate(-4deg);}
+  36% {bottom: 370px; left: 36%; transform: rotate(16deg);}
+  39% {bottom: 340px; left: 39%; transform: rotate(3deg);}
+  42% {bottom: 320px; left: 42%; transform: rotate(0deg);}
+  45% {bottom: 320px; left: 45%; transform: rotate(0deg);}
+  48% {bottom: 340px; left: 48%; transform: rotate(-16deg);}
+  51% {bottom: 360px; left: 51%; transform: rotate(-20deg);}
+  54% {bottom: 410px; left: 54%; transform: rotate(-10deg);}
+  57% {bottom: 383px; left: 57%; transform: rotate(40deg);}
+  60% {bottom: 321px; left: 60%; transform: rotate(30deg);}
+  63% {bottom: 270px; left: 63%; transform: rotate(25deg);}
+  66% {bottom: 254px; left: 66%; transform: rotate(10deg);}
+  69% {bottom: 230px; left: 69%; transform: rotate(0deg);}
   72% {bottom: 230px; left: 72%;}
   75% {bottom: 230px; left: 75%;}
-  78% {bottom: 230px; left: 78%;}
-  81% {bottom: 230px; left: 81%;}
-  84% {bottom: 230px; left: 84%;}
-  87% {bottom: 230px; left: 87%;}
-  90% {bottom: 230px; left: 90%;}
-  100% {bottom: 230px; left: 100%;}
+  78% {bottom: 230px; left: 78%; transform: rotate(0deg);}
+  81% {bottom: 260px; left: 81%; transform: rotate(-15deg);}
+  84% {bottom: 290px; left: 84%; transform: rotate(-25deg);}
+  87% {bottom: 355px; left: 87%; transform: rotate(-30deg);}
+  90% {bottom: 395px; left: 90%; transform: rotate(-20deg);}
+  100% {bottom: 485px; left: 100%; transform: rotate(-15deg);}
   }
 
 }
 
 /* 1440x900 (MacBook Pro ’15) */
-@media only screen and (min-width: 1440px) and (max-width: 1680px) {
+@media only screen and (min-width: 1440px) and (max-width: 1681px) {
   body {
     width: 2999px;
     height: 900px;

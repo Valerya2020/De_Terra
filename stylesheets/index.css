@@ -10,8 +10,12 @@ html {
   background: #bbb;
   position: relative;
   height: 100%;
-
 }
+
+h1 {font-family: "Europe";
+    font-size: 21px;}
+p {font-family: "Europe";
+  font-size: 18px;}
 .main {
   width: 2794px;
   height: 800px;
