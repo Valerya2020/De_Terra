@@ -1096,8 +1096,8 @@
   24% {top: 84px; left: 24%; transform: rotate(35deg);}
   27% {top: 129px; left: 27%; transform: rotate(40deg);}
   30% {top: 159px; left: 30%; transform: rotate(15deg);}
-  33% {top: 119px; left: 33%; transform: rotate(-47deg);}
-  36% {top: 84px; left:  36%; transform: rotate(-25deg);}
+  33% {top: 119px; left: 33%; transform: rotate(-50deg);}
+  36% {top: 84px; left:  36%; transform: rotate(-10deg);}
   39% {top: 83px; left:  39%; transform: rotate(0deg);}
   42% {top: 110px; left: 42%; transform: rotate(30deg);}
   45% {top: 139px; left: 45%; transform: rotate(47deg);}
@@ -1110,7 +1110,29 @@
   66% {top: 1px; left:   66%; transform: rotate(0deg);}
   100% {top: 1px; left:  100%;}
 }
-
+@keyframes tissue_green {
+  0% {top:   calc(50px - 4%); left: -3%;}
+  12% {top:  calc(50px - 4%); left: 12%; transform: rotate(0deg);}
+  15% {top:  calc(52px - 4%); left: 15%; transform: rotate(20deg);}
+  18% {top:  calc(75px - 4%); left: 18%; transform: rotate(24deg);}
+  21% {top:  calc(85px - 4%); left: 21%; transform: rotate(10deg);}
+  24% {top:  calc(110px - 4%); left: 24%; transform: rotate(45deg);}
+  27% {top:  calc(160px - 4%); left: 27%; transform: rotate(5deg);}
+  30% {top:  calc(200px - 4%); left: 30%; transform: rotate(-7deg);}
+  36% {top:  calc(152px - 4%); left: 36%; transform: rotate(-25deg);}
+  39% {top:  calc(113px - 4%); left: 39%; transform: rotate(0deg);}
+  42% {top:  calc(142px - 4%); left: 42%; transform: rotate(10deg);}
+  45% {top:  calc(170px - 4%); left: 45%; transform: rotate(30deg);}
+  48% {top:  calc(220px - 4%); left: 48%; transform: rotate(47deg);}
+  51% {top:  calc(194px - 4%); left: 51%; transform: rotate(-30deg);}
+  54% {top:  calc(98px - 4%); left: 54%; transform: rotate(-36deg);}
+  57% {top:  calc(88px - 4%); left: 57%; transform: rotate(-26deg);}
+  60% {top:  calc(78px - 4%); left: 60; transform: rotate(-14deg);}
+  63% {top:  calc(55px - 4%); left: 63%; transform: rotate(-6deg);}
+  66% {top:  calc(53px - 4%); left: 66%; transform: rotate(-3deg);}
+  69% {top:  calc(50px - 4%); left: 69%; transform: rotate(0deg);}
+  100% {top: calc(50px - 4%); left: 100%;}
+  }
 
 }
 
