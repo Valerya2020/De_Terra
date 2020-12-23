@@ -204,6 +204,108 @@
   animation-delay: -19.8s;
 }
 
+/* СПРАВА */
+#mdr1 {
+  top: calc(250px + 25%);
+  right: 500px;
+  transform: rotate(50deg);
+}
+#mdr2 {
+  top: calc(220px + 25%);
+  right: 500px;
+  transform: rotate(90deg);
+}
+#mdr3 {
+  top: calc(200px + 25%);
+  right: 650px;
+  transform: rotate(180deg);
+}
+#mdr4 {
+  top: calc(260px + 25%);
+  right: 800px;
+  transform: rotate(270deg);
+}
+#mdr5 {
+  top: calc(220px + 25%);
+  right: 880px;
+}
+#mdr6 {
+  top: calc(220px + 25%);
+  right: 900px;
+  transform: rotate(80deg);
+}
+#mdr6 {
+  top: calc(220px + 25%);
+  right: 1050px;
+  transform: rotate(45deg);
+}
+#mdr7 {
+  top: calc(250px + 25%);
+  right: 1300px;
+  transform: rotate(60deg);
+  background-size: 70%;
+  background-repeat: no-repeat;
+}
+#mdr8 {
+  top: calc(120px + 25%);
+  right: 300px;
+  transform: rotate(-90deg);
+}
+#mdr9 {
+  top: calc(200px + 25%);
+  right: 1070px;
+  transform: rotate(-190deg);
+}
+
+/* СЛЕВА */
+#mdr10 {
+  top: calc(250px + 25%);
+  left: 500px;
+  transform: rotate(50deg);
+}
+#mdr11 {
+  top: calc(220px + 25%);
+  left: 500px;
+  transform: rotate(90deg);
+}
+#mdr12 {
+  top: calc(200px + 25%);
+  left: 650px;
+  transform: rotate(180deg);
+}
+#mdr13 {
+  top: calc(260px + 25%);
+  left: 800px;
+  transform: rotate(270deg);
+}
+#mdr14 {
+  top: calc(220px + 25%);
+  left: 880px;
+}
+#mdr15 {
+  top: calc(220px + 25%);
+  left: 900px;
+  transform: rotate(80deg);
+}
+#mdr16 {
+  top: calc(220px + 25%);
+  left: 1050px;
+  transform: rotate(45deg);
+}
+#mdr17 {
+  top: calc(250px + 25%);
+  left: 0px;
+  transform: rotate(60deg);
+  background-size: 70%;
+  background-repeat: no-repeat;
+}
+#mdr18 {
+  top: calc(120px + 25%);
+  left: 0px;
+  transform: rotate(-90deg);
+}
+
+
 @keyframes tissue1 {
 0% {top: calc(66px + 0%); left: -3%;}
 18% {top: calc(66px + 0%); left: 18%; transform: rotate(0deg);}
