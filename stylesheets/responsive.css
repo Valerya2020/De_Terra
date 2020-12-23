@@ -204,6 +204,7 @@
   animation-delay: -19.8s;
 }
 
+
 /* СПРАВА */
 #mdr1 {
   top: calc(250px + 25%);
@@ -256,6 +257,8 @@
   right: 1070px;
   transform: rotate(-190deg);
 }
+/* ЗЕЛЁНЫЕ РИЗОМОРФЫ СПРАВА */
+
 
 /* СЛЕВА */
 #mdr10 {
@@ -316,6 +319,7 @@
   background-size: 70%;
   background-repeat: no-repeat;
 }
+
 
 
 @keyframes tissue1 {
