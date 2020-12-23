@@ -204,6 +204,183 @@
   animation-delay: -19.8s;
 }
 
+/* ЗЕЛЁНЫЙ РИЗОМОРФ СПРАВА */
+#rta2 {
+  top: calc(220px + 3%);
+  right: 800px;
+}
+#rta3 {
+  top: calc(160px + 3%);
+  right: 900px;
+  transform: rotate(190deg);
+}
+#rtb2 {
+  top: calc(220px + 3%);
+  right: 800px;
+}
+#rtb3 {
+  top: calc(160px + 3%);
+  right: 900px;
+  transform: rotate(180deg);
+}
+#rtc2 {
+  top: calc(220px + 3%);
+  right: 700px;
+  transform: rotate(45deg);
+}
+#rtc3 {
+  top: calc(240px + 3%);
+  right: 650px;
+  transform: rotate(30deg);
+}
+#rtd2 {
+  top: calc(170px + 3%);
+  right: 780px;
+  transform: rotate(70deg);
+}
+#rtd3 {
+  top: calc(170px + 3%);
+  right: 600px;
+  transform: rotate(100deg);
+}
+#rte2 {
+  top: calc(170px + 3%);
+  right: 1000px;
+  transform: rotate(80deg);
+}
+#rte3 {
+  top: calc(160px + 3%);
+  right: 900px;
+  transform: rotate(100deg);
+}
+#rtf2 {
+  top: calc(270px + 3%);
+  right: 1000px;
+  transform: rotate(80deg);
+}
+#rtf3 {
+  top: calc(360px + 3%);
+  right: 1190px;
+  transform: rotate(100deg);
+}
+#rtg2 {
+  top: calc(350px + 3%);
+  right: 1050px;
+}
+#rtg3 {
+  top: calc(260px + 3%);
+  right: 390px;
+  transform: rotate(100deg);
+}
+#rta4 {
+  top: calc(200px + 3%);
+  right: 190px;
+  transform: rotate(10deg);
+}
+#rtb4 {
+  top: calc(180px + 3%);
+  right: 330px;
+  transform: rotate(10deg);
+}
+#rtc4 {
+  top: calc(150px + 3%);
+  right: 630px;
+  transform: rotate(30deg);
+}
+#rtd4 {
+  top: calc(250px + 3%);
+  right: 1230px;
+  transform: rotate(30deg);
+}
+#rte4 {
+  top: calc(280px + 3%);
+  right: 1230px;
+}
+#rtf4 {
+  top: calc(310px + 3%);
+  right: 250px;
+  transform: rotate(30deg);
+}
+#rtg4 {
+  top: calc(300px + 3%);
+  right: 260px;
+  transform: rotate(60deg);
+}
+#rta5 {
+  top: 250px;
+  right: 1060px;
+  transform: rotate(-20deg);
+}
+#rta6 {
+  top: 100px;
+  right: 1060px;
+  transform: rotate(-20deg);
+}
+#rta7 {
+  top: 100px;
+  right: 1160px;
+  transform: rotate(-30deg);
+}
+#rtb6 {
+  top: 250px;
+  right: 1460px;
+  transform: rotate(-40deg);
+}
+#rtb7 {
+  top: 230px;
+  right: 1350px;
+  transform: rotate(90deg);
+}
+#rtc6 {
+  top: 370px;
+  right: 1550px;
+  transform: rotate(90deg);
+}
+#rtc7 {
+  top: 450px;
+  right: 1650px;
+  transform: rotate(100deg);
+}
+#rtd6 {
+  top: 430px;
+  right: 1570px;
+  transform: rotate(10deg);
+}
+#rtd7 {
+  top: 330px;
+  right: 1570px;
+  transform: rotate(30deg);
+}
+#rte6 {
+  top: 160px;
+  right: 160px;
+  transform: rotate(-40deg);
+}
+#rte7 {
+  top: 200px;
+  right: 50px;
+  transform: rotate(90deg);
+}
+#rtf6 {
+  top: 490px;
+  right: 1700px;
+  transform: rotate(90deg);
+}
+#rtf7 {
+  top: 300px;
+  right: 1650px;
+  transform: rotate(100deg);
+}
+#rtg6 {
+  top: 400px;
+  right: 1400px;
+  transform: rotate(10deg);
+}
+#rtg7 {
+  top: 330px;
+  right: 140px;
+  transform: rotate(30deg);
+}
 
 /* СПРАВА */
 #mdr1 {
