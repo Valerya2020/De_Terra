@@ -3608,78 +3608,98 @@
     transform: rotate(60deg);
   }
   #rta5 {
-    top: 45%;
+    top: 75%;
     right: 34%;
     transform: rotate(-20deg);
   }
   #rta6 {
-    top: 100px;
-    right: 1060px;
+    top: 60%;
+    right: 0%;
     transform: rotate(-20deg);
   }
   #rta7 {
-    top: 100px;
-    right: 1160px;
+    top: 60%;
+    right: 30%;
     transform: rotate(-30deg);
   }
   #rtb6 {
-    top: 250px;
-    right: 1460px;
+    top: 70%;
+    right: 32%;
     transform: rotate(-40deg);
   }
   #rtb7 {
-    top: 230px;
-    right: 1350px;
+    top: 75%;
+    right: 30%;
     transform: rotate(90deg);
   }
   #rtc6 {
-    top: 370px;
-    right: 1550px;
+    top: 75%;
+    right: 30%;
     transform: rotate(90deg);
   }
   #rtc7 {
-    top: 450px;
-    right: 1650px;
+    top: 70%;
+    right: 0%;
     transform: rotate(100deg);
   }
   #rtd6 {
-    top: 430px;
-    right: 1570px;
+    top: 70%;
+    right: 2%;
     transform: rotate(10deg);
   }
   #rtd7 {
-    top: 330px;
-    right: 1570px;
+    top: 48%;
+    right: 0%;
     transform: rotate(30deg);
   }
   #rte6 {
-    top: 160px;
-    right: 160px;
+    top: 40%;
+    right: 0%;
     transform: rotate(-40deg);
   }
   #rte7 {
-    top: 200px;
-    right: 50px;
+    top: 40%;
+    right: 0%;
     transform: rotate(90deg);
   }
   #rtf6 {
-    top: 490px;
-    right: 1700px;
+    top: 70%;
+    right: 0%;
     transform: rotate(90deg);
   }
   #rtf7 {
-    top: 300px;
-    right: 1650px;
+    top: 45%;
+    right: 5%;
     transform: rotate(100deg);
   }
   #rtg6 {
-    top: 400px;
-    right: 1400px;
+    top: 40%;
+    right: 10%;
     transform: rotate(10deg);
   }
   #rtg7 {
-    top: 330px;
-    right: 140px;
+    top: 30%;
+    right: 0%;
+    transform: rotate(30deg);
+  }
+  #rte5 {
+    top: 30%;
+    right: 0%;
+    transform: rotate(30deg);
+  }
+  #rte1 {
+    top: 40%;
+    right: 0%;
+    transform: rotate(30deg);
+  }
+  #rte8 {
+    top: 50%;
+    right: 0%;
+    transform: rotate(30deg);
+  }
+  #rte9 {
+    top: 40%;
+    right: 0%;
     transform: rotate(30deg);
   }
 
