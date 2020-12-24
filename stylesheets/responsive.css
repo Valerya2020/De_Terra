@@ -4022,7 +4022,34 @@
 
 /* 320–475 (iPhone SE) */
 @media only screen and (min-width: 475px) and (max-width: 768px) {
+  body {
+    width: 1346;
+    height: 568px;
+  }
+  .main {
+    width: 1346;
+    height: 568px;
+  }
+  /* .volvox {
+    top: 45%;
+    left: 27%;
+  }
+  .volvox1 {
+    top: 66%;
+    left: 31%;
+  }
+  .volvox2 {
+    top: 68%;
+    left: 41%;
+  }
+  .cell_white {
+    top: 1px;
+    animation-duration: 11s;
+  }
 
+  .cell_white_down {
+    animation-duration: 8s;
+  } */
 }
 
 /* MY PHONE */
