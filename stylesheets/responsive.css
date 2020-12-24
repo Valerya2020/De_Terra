@@ -4018,6 +4018,7 @@
 60% {top: 70%; left: 34.2%;}
 100% {top: 70%; left: 35%;}
 }
+}
 
 
 /* 320–475 (iPhone SE) */
@@ -4030,16 +4031,16 @@
     width: 1346;
     height: 568px;
   }
-  /* .volvox {
-    top: 45%;
+  .volvox {
+    top: 0%;
     left: 27%;
   }
   .volvox1 {
-    top: 66%;
+    top: 0%;
     left: 31%;
   }
   .volvox2 {
-    top: 68%;
+    top: 0%;
     left: 41%;
   }
   .cell_white {
@@ -4049,10 +4050,5 @@
 
   .cell_white_down {
     animation-duration: 8s;
-  } */
-}
-
-/* MY PHONE */
-@media only screen and (min-widht: 360px) and (max-widht: 475px) {
-
+  }
 }
