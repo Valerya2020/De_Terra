@@ -3507,109 +3507,109 @@
 
   /* ЗЕЛЁНЫЙ РИЗОМОРФ СПРАВА */
   #rta2 {
-    top: calc(220px + 3%);
-    right: 800px;
+    top: 50%;
+    right: 10%;
   }
   #rta3 {
-    top: calc(160px + 3%);
-    right: 900px;
+    top: 55%;
+    right: 5%;
     transform: rotate(190deg);
   }
   #rtb2 {
-    top: calc(220px + 3%);
-    right: 800px;
+    top: 40%;
+    right: 20%;
   }
   #rtb3 {
-    top: calc(160px + 3%);
-    right: 900px;
+    top: 60%;
+    right: 30%;
     transform: rotate(180deg);
   }
   #rtc2 {
-    top: calc(220px + 3%);
-    right: 700px;
+    top: 50%;
+    right: 15%;
     transform: rotate(45deg);
   }
   #rtc3 {
-    top: calc(240px + 3%);
-    right: 650px;
+    top: 65%;
+    right: 25%;
     transform: rotate(30deg);
   }
   #rtd2 {
-    top: calc(170px + 3%);
-    right: 780px;
+    top: 60%;
+    right: 0%;
     transform: rotate(70deg);
   }
   #rtd3 {
-    top: calc(170px + 3%);
-    right: 600px;
+    top: 78%;
+    right: 20%;
     transform: rotate(100deg);
   }
   #rte2 {
-    top: calc(170px + 3%);
-    right: 1000px;
+    top: 50%;
+    right: 10%;
     transform: rotate(80deg);
   }
   #rte3 {
-    top: calc(160px + 3%);
-    right: 900px;
+    top: 45%;
+    right: 30%;
     transform: rotate(100deg);
   }
   #rtf2 {
-    top: calc(270px + 3%);
-    right: 1000px;
+    top: 50%;
+    right: 40%;
     transform: rotate(80deg);
   }
   #rtf3 {
-    top: calc(360px + 3%);
-    right: 1190px;
+    top: 60%;
+    right: 15%;
     transform: rotate(100deg);
   }
   #rtg2 {
-    top: calc(350px + 3%);
-    right: 1050px;
+    top: 70%;
+    right: 20%;
   }
   #rtg3 {
-    top: calc(260px + 3%);
-    right: 390px;
+    top: 65%;
+    right: 36%;
     transform: rotate(100deg);
   }
   #rta4 {
-    top: calc(200px + 3%);
-    right: 190px;
+    top: 50%;
+    right: 30%;
     transform: rotate(10deg);
   }
   #rtb4 {
-    top: calc(180px + 3%);
-    right: 330px;
+    top: 55%;
+    right: 35%;
     transform: rotate(10deg);
   }
   #rtc4 {
-    top: calc(150px + 3%);
-    right: 630px;
+    top: 60%;
+    right: 40%;
     transform: rotate(30deg);
   }
   #rtd4 {
-    top: calc(250px + 3%);
-    right: 1230px;
+    top: 70%;
+    right: 10%;
     transform: rotate(30deg);
   }
   #rte4 {
-    top: calc(280px + 3%);
-    right: 1230px;
+    top: 46%;
+    right: 17%;
   }
   #rtf4 {
-    top: calc(310px + 3%);
-    right: 250px;
+    top: 60%;
+    right: 20%;
     transform: rotate(30deg);
   }
   #rtg4 {
-    top: calc(300px + 3%);
-    right: 260px;
+    top: 45%;
+    right: 20%;
     transform: rotate(60deg);
   }
   #rta5 {
-    top: 250px;
-    right: 1060px;
+    top: 45%;
+    right: 34%;
     transform: rotate(-20deg);
   }
   #rta6 {
@@ -3681,59 +3681,6 @@
     top: 330px;
     right: 140px;
     transform: rotate(30deg);
-  }
-
-  /* СПРАВА */
-  #mdr1 {
-    top: calc(250px + 25%);
-    right: 500px;
-    transform: rotate(50deg);
-  }
-  #mdr2 {
-    top: calc(220px + 25%);
-    right: 500px;
-    transform: rotate(90deg);
-  }
-  #mdr3 {
-    top: calc(200px + 25%);
-    right: 650px;
-    transform: rotate(180deg);
-  }
-  #mdr4 {
-    top: calc(260px + 25%);
-    right: 800px;
-    transform: rotate(270deg);
-  }
-  #mdr5 {
-    top: calc(220px + 25%);
-    right: 880px;
-  }
-  #mdr6 {
-    top: calc(220px + 25%);
-    right: 900px;
-    transform: rotate(80deg);
-  }
-  #mdr6 {
-    top: calc(220px + 25%);
-    right: 1050px;
-    transform: rotate(45deg);
-  }
-  #mdr7 {
-    top: calc(250px + 25%);
-    right: 1300px;
-    transform: rotate(60deg);
-    background-size: 70%;
-    background-repeat: no-repeat;
-  }
-  #mdr8 {
-    top: calc(120px + 25%);
-    right: 300px;
-    transform: rotate(-90deg);
-  }
-  #mdr9 {
-    top: calc(200px + 25%);
-    right: 1070px;
-    transform: rotate(-190deg);
   }
 
   /* СРЕДНЯЯ ЧЁРНАЯ ГУБЧАТАЯ ТКАНЬ */
