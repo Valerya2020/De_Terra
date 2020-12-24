@@ -5675,6 +5675,204 @@
     animation-delay: -11.2s;
   }
 
+  /* ЗЕЛЁНЫЙ РИЗОМОРФ СПРАВА */
+  #rta2 {
+    top: 50%;
+    right: 10%;
+  }
+  #rta3 {
+    top: 55%;
+    right: 5%;
+    transform: rotate(190deg);
+  }
+  #rtb2 {
+    top: 40%;
+    right: 20%;
+  }
+  #rtb3 {
+    top: 60%;
+    right: 30%;
+    transform: rotate(180deg);
+  }
+  #rtc2 {
+    top: 50%;
+    right: 15%;
+    transform: rotate(45deg);
+  }
+  #rtc3 {
+    top: 65%;
+    right: 25%;
+    transform: rotate(30deg);
+  }
+  #rtd2 {
+    top: 60%;
+    right: 0%;
+    transform: rotate(70deg);
+  }
+  #rtd3 {
+    top: 78%;
+    right: 20%;
+    transform: rotate(100deg);
+  }
+  #rte2 {
+    top: 50%;
+    right: 10%;
+    transform: rotate(80deg);
+  }
+  #rte3 {
+    top: 45%;
+    right: 30%;
+    transform: rotate(100deg);
+  }
+  #rtf2 {
+    top: 50%;
+    right: 40%;
+    transform: rotate(80deg);
+  }
+  #rtf3 {
+    top: 60%;
+    right: 15%;
+    transform: rotate(100deg);
+  }
+  #rtg2 {
+    top: 70%;
+    right: 20%;
+  }
+  #rtg3 {
+    top: 65%;
+    right: 36%;
+    transform: rotate(100deg);
+  }
+  #rta4 {
+    top: 50%;
+    right: 30%;
+    transform: rotate(10deg);
+  }
+  #rtb4 {
+    top: 55%;
+    right: 35%;
+    transform: rotate(10deg);
+  }
+  #rtc4 {
+    top: 60%;
+    right: 40%;
+    transform: rotate(30deg);
+  }
+  #rtd4 {
+    top: 70%;
+    right: 10%;
+    transform: rotate(30deg);
+  }
+  #rte4 {
+    top: 46%;
+    right: 17%;
+  }
+  #rtf4 {
+    top: 60%;
+    right: 20%;
+    transform: rotate(30deg);
+  }
+  #rtg4 {
+    top: 45%;
+    right: 20%;
+    transform: rotate(60deg);
+  }
+  #rta5 {
+    top: 75%;
+    right: 34%;
+    transform: rotate(-20deg);
+  }
+  #rta6 {
+    top: 60%;
+    right: 0%;
+    transform: rotate(-20deg);
+  }
+  #rta7 {
+    top: 60%;
+    right: 30%;
+    transform: rotate(-30deg);
+  }
+  #rtb6 {
+    top: 70%;
+    right: 32%;
+    transform: rotate(-40deg);
+  }
+  #rtb7 {
+    top: 75%;
+    right: 30%;
+    transform: rotate(90deg);
+  }
+  #rtc6 {
+    top: 75%;
+    right: 30%;
+    transform: rotate(90deg);
+  }
+  #rtc7 {
+    top: 70%;
+    right: 0%;
+    transform: rotate(100deg);
+  }
+  #rtd6 {
+    top: 70%;
+    right: 2%;
+    transform: rotate(10deg);
+  }
+  #rtd7 {
+    top: 48%;
+    right: 0%;
+    transform: rotate(30deg);
+  }
+  #rte6 {
+    top: 40%;
+    right: 0%;
+    transform: rotate(-40deg);
+  }
+  #rte7 {
+    top: 40%;
+    right: 0%;
+    transform: rotate(90deg);
+  }
+  #rtf6 {
+    top: 70%;
+    right: 0%;
+    transform: rotate(90deg);
+  }
+  #rtf7 {
+    top: 45%;
+    right: 5%;
+    transform: rotate(100deg);
+  }
+  #rtg6 {
+    top: 40%;
+    right: 10%;
+    transform: rotate(10deg);
+  }
+  #rtg7 {
+    top: 30%;
+    right: 0%;
+    transform: rotate(30deg);
+  }
+  #rte5 {
+    top: 30%;
+    right: 0%;
+    transform: rotate(30deg);
+  }
+  #rte1 {
+    top: 40%;
+    right: 0%;
+    transform: rotate(30deg);
+  }
+  #rte8 {
+    top: 50%;
+    right: 0%;
+    transform: rotate(30deg);
+  }
+  #rte9 {
+    top: 40%;
+    right: 0%;
+    transform: rotate(30deg);
+  }
+
   @keyframes tissue1 {
   0% {top: 1%; left: -3%;}
   100% {top: 1%; left: 100%;}
