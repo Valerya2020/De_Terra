@@ -4032,16 +4032,25 @@
     height: 568px;
   }
   .volvox {
-    top: 0%;
+    width: 391px;
+    height: 387px;
+    top: 7%;
     left: 27%;
+    background: url('../images/volvox0_min.svg');
   }
   .volvox1 {
-    top: 0%;
-    left: 31%;
+    top: 33%;
+    left: 29%;
+    width: 128px;
+    height: 131px;
+    background: url('../images/volvox01_min.svg');
   }
   .volvox2 {
-    top: 0%;
-    left: 41%;
+    top: 35%;
+    left: 34%;
+    width: 112px;
+    height: 112px;
+    background: url('../images/volvox2_min.svg');
   }
   .cell_white {
     top: 1px;
@@ -4051,4 +4060,1652 @@
   .cell_white_down {
     animation-duration: 8s;
   }
+  /* ЗЕЛЁНЫЙ второй СЛОЙ ВНИЗУ на планшете и мобиле  */
+    .cell_green_one_down2 {
+    width: 68px;
+    height: 130px;
+    bottom: 410px;
+    margin: 0;
+    display: inline-block;
+    position: absolute;
+    transform: rotate(-90deg);
+    background: url('../images/cell_green1.png');
+    animation: tissue_green_down2 15s linear reverse infinite;
+  }
+  .cell_green_two_down2 {
+    width: 56px;
+    height: 126px;
+    bottom: 410px;
+    margin: 0;
+    display: inline-block;
+    position: absolute;
+    transform: rotate(-90deg);
+    background: url('../images/cell_green2.png');
+    animation: tissue_green_down2 15s linear reverse infinite;
+  }
+  .cell_green_three_down2 {
+    width: 53px;
+    height: 130px;
+    bottom: 410px;
+    margin: 0;
+    display: inline-block;
+    position: absolute;
+    transform: rotate(-90deg);
+    background: url('../images/cell_green3.png');
+    animation: tissue_green_down2 15s linear reverse infinite;
+  }
+  .cell_green_four_down2 {
+    width: 33px;
+    height: 125px;
+    bottom: 410px;
+    margin: 0;
+    display: inline-block;
+    position: absolute;
+    transform: rotate(-90deg);
+    background: url('../images/cell_green4.png');
+    animation: tissue_green_down2 15s linear reverse infinite;
+  }
+  .cell_green_five_down2 {
+    width: 54px;
+    height: 141px;
+    bottom: 410px;
+    margin: 0;
+    display: inline-block;
+    position: absolute;
+    transform: rotate(-90deg);
+    background: url('../images/cell_green5.png');
+    animation: tissue_green_down2 15s linear reverse infinite;
+  }
+  #nbd1 {
+    animation-delay: -.5s;
+  }
+  #ned1 {
+    animation-delay: -1s;
+  }
+  #ndd1 {
+    animation-delay: -1.5s;
+  }
+  #nid1 {
+    animation-delay: -2s;
+  }
+  #nad2 {
+    animation-delay: -2.5s;
+  }
+  #nbd2 {
+    animation-delay: -3s;
+  }
+  #ned2 {
+    animation-delay: -3.5s;
+  }
+  #ndd2 {
+    animation-delay: -4s;
+  }
+  #nid2 {
+    animation-delay: -4.5s;
+  }
+  #nad3 {
+    animation-delay: -5s;
+  }
+  #nbd3 {
+    animation-delay: -5.5s;
+  }
+  #ned3 {
+    animation-delay: -6s;
+  }
+  #ndd3 {
+    animation-delay: -6.5s;
+  }
+  #nid3 {
+    animation-delay: -7s;
+  }
+  #nad4 {
+    animation-delay: -7.5s;
+  }
+  #nbd4 {
+    animation-delay: -8s;
+  }
+  #ned4 {
+    animation-delay: -8.5s;
+  }
+  #ndd4 {
+    animation-delay: -9s;
+  }
+  #nid4 {
+    animation-delay: -9.5s;
+  }
+  #nad5 {
+    animation-delay: -10s;
+  }
+  #nbd5 {
+    animation-delay: -10.5s;
+  }
+  #ned5 {
+    animation-delay: -11s;
+  }
+  #ndd5 {
+    animation-delay: -11.5s;
+  }
+  #nid5 {
+    animation-delay: -12s;
+  }
+  #nad6 {
+    animation-delay: -12.5s;
+  }
+  #nbd6 {
+    animation-delay: -13s;
+  }
+  #ned6 {
+    animation-delay: -13.5s;
+  }
+  #ndd6 {
+    animation-delay: -14s;
+  }
+  #nid6 {
+    animation-delay: -14.5s;
+  }
+  #nad7 {
+    animation-delay: -15s;
+  }
+  #nbd7 {
+    animation-delay: -15.5s;
+  }
+  #ned7 {
+    animation-delay: -16s;
+  }
+  #ndd7 {
+    animation-delay: -16.5s;
+  }
+  #nid7 {
+    animation-delay: -17s;
+  }
+  #nad8 {
+    animation-delay: -17.5s;
+  }
+  #nbd8 {
+    animation-delay: -18s;
+  }
+  #ned8 {
+    animation-delay: -18.5s;
+  }
+  #ndd8 {
+    animation-delay: -19s;
+  }
+  #nid8 {
+    animation-delay: -15.6s;
+  }
+  #nad9 {
+    animation-delay: -16s;
+  }
+  #nbd9 {
+    animation-delay: -16.4s;
+  }
+  #ned9 {
+    animation-delay: -16.8s;
+  }
+  #ndd9 {
+    animation-delay: -17.2s;
+  }
+  #nid9 {
+    animation-delay: -17.6s;
+  }
+  #nad10 {
+    animation-delay: -18s;
+  }
+  #nbd10 {
+    animation-delay: -18.4s;
+  }
+  #ned10 {
+    animation-delay: -18.8s;
+  }
+  #ndd10 {
+    animation-delay: -19.2s;
+  }
+  #nid10 {
+    animation-delay: -19.6s;
+  }
+  #nad11 {
+    animation-delay: -20s;
+  }
+  #nbd11 {
+    animation-delay: -20.4s;
+  }
+  #ned11 {
+    animation-delay: -20.8s;
+  }
+  #ndd11 {
+    animation-delay: -21.2s;
+  }
+  #nid11 {
+    animation-delay: -21.6s;
+  }
+  #nad12 {
+    animation-delay: -22s;
+  }
+  #nbd12 {
+    animation-delay: -22.4s;
+  }
+  #ned12 {
+    animation-delay: -22.8s;
+  }
+  #ndd12 {
+    animation-delay: -23.2s;
+  }
+  #nid12 {
+    animation-delay: -23.6s;
+  }
+  #nad13 {
+    animation-delay: -24s;
+  }
+  #nbd13 {
+    animation-delay: -24.4s;
+  }
+  #ned13 {
+    animation-delay: -24.8s;
+  }
+  #ndd13 {
+    animation-delay: -25.2s;
+  }
+  #nid13 {
+    animation-delay: -25.6s;
+  }
+  #nad14 {
+    animation-delay: -26s;
+  }
+  #nbd14 {
+    animation-delay: -26.4s;
+  }
+  #ned14 {
+    animation-delay: -26.8s;
+  }
+  #ndd14 {
+    animation-delay: -27.2s;
+  }
+  #nid14 {
+    animation-delay: -27.6s;
+  }
+  #nad15 {
+    animation-delay: -28s;
+  }
+  #nbd15 {
+    animation-delay: -28.4s;
+  }
+  #ned15 {
+    animation-delay: -28.8s;
+  }
+  #ndd15 {
+    animation-delay: -29.2s;
+  }
+  #ncd15 {
+    animation-delay: -29.6s;
+  }
+  #ndd15 {
+    animation-delay: -30s;
+  }
+  #nid15 {
+    animation-delay: -30.4s;
+  }
+  #nad16 {
+    animation-delay: -30.8s;
+  }
+  #nbd16 {
+    animation-delay: -31.2s;
+  }
+  #ned16 {
+    animation-delay: -31.6s;
+  }
+  #ndd16 {
+    animation-delay: -32s;
+  }
+  #nid16 {
+    animation-delay: -32.4s;
+  }
+  #nad17 {
+    animation-delay: -32.8s;
+  }
+  #nbd17 {
+    animation-delay: -33.2s;
+  }
+  #ned17 {
+    animation-delay: -33.6s;
+  }
+  #ndd17 {
+    animation-delay: -34s;
+  }
+  #nid17 {
+    animation-delay: -17.2s;
+  }
+  #nad18 {
+    animation-delay: -17.4s;
+  }
+  #nbd18 {
+    animation-delay: -17.6s;
+  }
+  #ned18 {
+    animation-delay: -17.8s;
+  }
+  #ndd18 {
+    animation-delay: -18s;
+  }
+  #nid18 {
+    animation-delay: -18.2s;
+  }
+  #nad19 {
+    animation-delay: -18.4s;
+  }
+  #nbd19 {
+    animation-delay: -18.6s;
+  }
+  #ned19 {
+    animation-delay: -18.8s;
+  }
+  #ndd19 {
+    animation-delay: -19s;
+  }
+  #nid19 {
+    animation-delay: -19.2s;
+  }
+  #nad20 {
+    animation-delay: -19.4s;
+  }
+  #nbd20 {
+    animation-delay: -19.6s;
+  }
+  #ned20 {
+    animation-delay: -19.8s;
+  }
+  #ndd20 {
+    animation-delay: -20s;
+  }
+  #nid20 {
+    animation-delay: -20.2s;
+  }
+  #nad21 {
+    animation-delay: -20.4s;
+  }
+  #nbd21 {
+    animation-delay: -20.6s;
+  }
+  #ned21 {
+    animation-delay: -20.8s;
+  }
+  #ndd21 {
+    animation-delay: -21s;
+  }
+  #nid21 {
+    animation-delay: -21.2s;
+  }
+  #nad22 {
+    animation-delay: -21.4s;
+  }
+  #nbd22 {
+    animation-delay: -21.6s;
+  }
+  #ned22 {
+    animation-delay: -21.8s;
+  }
+  #ndd22 {
+    animation-delay: -22s;
+  }
+  #nid22 {
+    animation-delay: -22.2s;
+  }
+  #nad23 {
+    animation-delay: -22.4s;
+  }
+  #nbd23 {
+    animation-delay: -22.6s;
+  }
+  #ned23 {
+    animation-delay: -22.8s;
+  }
+  #ndd23 {
+    animation-delay: -23s;
+  }
+  #nid23 {
+    animation-delay: -23.2s;
+  }
+  #nad24 {
+    animation-delay: -23.4s;
+  }
+  #nbd24 {
+    animation-delay: -23.6s;
+  }
+  #ned24 {
+    animation-delay: -23.8s;
+  }
+  #ndd24 {
+    animation-delay: -24s;
+  }
+  #nid24 {
+    animation-delay: -24.2s;
+  }
+  #nad25 {
+    animation-delay: -24.4s;
+  }
+  #nbd25 {
+    animation-delay: -24.6s;
+  }
+  #ned25 {
+    animation-delay: -24.8s;
+  }
+  #ndd25 {
+    animation-delay: -25s;
+  }
+  #nid25 {
+    animation-delay: -25.2s;
+  }
+  #nad26 {
+    animation-delay: -25.4s;
+  }
+  #nbd26 {
+    animation-delay: -25.6s;
+  }
+  #ned26 {
+    animation-delay: -25.8s;
+  }
+  #ndd26 {
+    animation-delay: -26s;
+  }
+  #nid26 {
+    animation-delay: -26.2s;
+  }
+  #nad27 {
+    animation-delay: -26.4s;
+  }
+  #nbd27 {
+    animation-delay: -26.6s;
+  }
+  #ned27 {
+    animation-delay: -26.8s;
+  }
+  #ndd27 {
+    animation-delay: -27s;
+  }
+  #nid27 {
+    animation-delay: -27.2s;
+  }
+  #nad28 {
+    animation-delay: -27.4s;
+  }
+  #nbd28 {
+    animation-delay: -27.6s;
+  }
+  #ned28 {
+    animation-delay: -27.8s;
+  }
+  #ndd28 {
+    animation-delay: -28s;
+  }
+  #nid28 {
+    animation-delay: -28.2s;
+  }
+  #nad29 {
+    animation-delay: -28.4s;
+  }
+  #nbd29 {
+    animation-delay: -28.6s;
+  }
+  #ned29 {
+    animation-delay: -28.8s;
+  }
+  #ndd29 {
+    animation-delay: -29s;
+  }
+  #nid29 {
+    animation-delay: -29.2s;
+  }
+  #nad30 {
+    animation-delay: -29.4s;
+  }
+  #nb30 {
+    animation-delay: -29.6s;
+  }
+  #ned30 {
+    animation-delay: -29.8s;
+  }
+  #ndd30 {
+    animation-delay: -30s;
+  }
+  #nid30 {
+    animation-delay: -30.2s;
+  }
+  #nad31 {
+    animation-delay: -30.4s;
+  }
+  #nbd31 {
+    animation-delay: -30.6s;
+  }
+  #ned31 {
+    animation-delay: -30.8s;
+  }
+  #ndd31 {
+    animation-delay: -31s;
+  }
+  #nid31 {
+    animation-delay: -31.2s;
+  }
+  /* ЗЕЛЁНЫЙ второй ВЕРХНИЙ СЛОЙ на планшете */
+  .cell_green_one2 {
+    width: 68px;
+    height: 130px;
+    top: 58px;
+    margin: 0;
+    display: inline-block;
+    position: absolute;
+    background: url('../images/cell_green1.png');
+    animation: tissue_green2 11s linear reverse infinite;
+  }
+  .cell_green_two2 {
+    width: 56px;
+    height: 126px;
+    top: 58px;
+    margin: 0;
+    display: inline-block;
+    position: absolute;
+    background: url('../images/cell_green2.png');
+    animation: tissue_green2 11s linear reverse infinite;
+  }
+  .cell_green_three2 {
+    width: 53px;
+    height: 130px;
+    top: 58px;
+    margin: 0;
+    display: inline-block;
+    position: absolute;
+    background: url('../images/cell_green3.png');
+    animation: tissue_green2 11s linear reverse infinite;
+  }
+  .cell_green_four2 {
+    width: 33px;
+    height: 125px;
+    top: 58px;
+    margin: 0;
+    display: inline-block;
+    position: absolute;
+    background: url('../images/cell_green4.png');
+    animation: tissue_green2 11s linear reverse infinite;
+  }
+  .cell_green_five2 {
+    width: 54px;
+    height: 141px;
+    top: 58px;
+    margin: 0;
+    display: inline-block;
+    position: absolute;
+    background: url('../images/cell_green5.png');
+    animation: tissue_green2 11s linear reverse infinite;
+  }
+  #v2b1 {
+    animation-delay: -.2s;
+  }
+  #v2e1 {
+    animation-delay: -.4s;
+  }
+  #v2d1 {
+    animation-delay: -.6s;
+  }
+  #v2i1 {
+    animation-delay: -.8s;
+  }
+  #v2a2 {
+    animation-delay: -1s;
+  }
+  #v2b2 {
+    animation-delay: -1.2s;
+  }
+  #v2e2 {
+    animation-delay: -1.4s;
+  }
+  #v2d2 {
+    animation-delay: -1.6s;
+  }
+  #v2i2 {
+    animation-delay: -1.8s;
+  }
+  #v2a3 {
+    animation-delay: -2s;
+  }
+  #v2b3 {
+    animation-delay: -2.2s;
+  }
+  #v2e3 {
+    animation-delay: -2.4s;
+  }
+  #v2d3 {
+    animation-delay: -2.6s;
+  }
+  #v2i3 {
+    animation-delay: -2.8s;
+  }
+  #v2a4 {
+    animation-delay: -3s;
+  }
+  #v2b4 {
+    animation-delay: -3.2s;
+  }
+  #v2e4 {
+    animation-delay: -3.4s;
+  }
+  #v2d4 {
+    animation-delay: -3.6s;
+  }
+  #v2i4 {
+    animation-delay: -3.8s;
+  }
+  #v2a5 {
+    animation-delay: -4s;
+  }
+  #v2b5 {
+    animation-delay: -4.2s;
+  }
+  #v2e5 {
+    animation-delay: -4.4s;
+  }
+  #v2d5 {
+    animation-delay: -4.6s;
+  }
+  #v2i5 {
+    animation-delay: -4.8s;
+  }
+  #v2a6 {
+    animation-delay: -5s;
+  }
+  #v2b6 {
+    animation-delay: -5.2s;
+  }
+  #v2e6 {
+    animation-delay: -5.4s;
+  }
+  #v2d6 {
+    animation-delay: -5.6s;
+  }
+  #v2i6 {
+    animation-delay: -5.8s;
+  }
+  #v2a7 {
+    animation-delay: -6s;
+  }
+  #v2b7 {
+    animation-delay: -6.2s;
+  }
+  #v2e7 {
+    animation-delay: -6.4s;
+  }
+  #v2d7 {
+    animation-delay: -6.6s;
+  }
+  #v2i7 {
+    animation-delay: -6.8s;
+  }
+  #v2a8 {
+    animation-delay: -7s;
+  }
+  #v2b8 {
+    animation-delay: -7.2s;
+  }
+  #v2e8 {
+    animation-delay: -7.4s;
+  }
+  #v2d8 {
+    animation-delay: -7.6s;
+  }
+  #v2i8 {
+    animation-delay: -7.8s;
+  }
+  #v2a9 {
+    animation-delay: -8s;
+  }
+  #v2b9 {
+    animation-delay: -8.2s;
+  }
+  #v2e9 {
+    animation-delay: -8.4s;
+  }
+  #v2d9 {
+    animation-delay: -8.6s;
+  }
+  #v2i9 {
+    animation-delay: -8.8s;
+  }
+  #v2a10 {
+    animation-delay: -9s;
+  }
+  #v2b10 {
+    animation-delay: -9.2s;
+  }
+  #v2e10 {
+    animation-delay: -9.4s;
+  }
+  #v2d10 {
+    animation-delay: -9.6s;
+  }
+  #v2i10 {
+    animation-delay: -9.8s;
+  }
+  #v2a11 {
+    animation-delay: -10s;
+  }
+  #v2b11 {
+    animation-delay: -10.2s;
+  }
+  #v2e11 {
+    animation-delay: -10.4s;
+  }
+  #v2d11 {
+    animation-delay: -10.6s;
+  }
+  #v2i11 {
+    animation-delay: -10.8s;
+  }
+  #v2a12 {
+    animation-delay: -11s;
+  }
+  #v2b12 {
+    animation-delay: -11.2s;
+  }
+  #v2e12 {
+    animation-delay: -11.4s;
+  }
+  #v2d12 {
+    animation-delay: -11.6s;
+  }
+  #v2i12 {
+    animation-delay: -11.8s;
+  }
+  #v2a13 {
+    animation-delay: -12s;
+  }
+  #v2b13 {
+    animation-delay: -12.2s;
+  }
+  #v2e13 {
+    animation-delay: -12.4s;
+  }
+  #v2d13 {
+    animation-delay: -12.6s;
+  }
+  #v2i13 {
+    animation-delay: -12.8s;
+  }
+  #v2a14 {
+    animation-delay: -13s;
+  }
+  #v2b14 {
+    animation-delay: -13.2s;
+  }
+  #v2e14 {
+    animation-delay: -13.4s;
+  }
+  #v2d14 {
+    animation-delay: -13.6s;
+  }
+  #v2i14 {
+    animation-delay: -13.8s;
+  }
+  #v2a15 {
+    animation-delay: -14s;
+  }
+  #v2b15 {
+    animation-delay: -14.2s;
+  }
+  #v2e15 {
+    animation-delay: -14.4s;
+  }
+  #v2d15 {
+    animation-delay: -14.6s;
+  }
+  #v2c15 {
+    animation-delay: -14.8s;
+  }
+  #v2d15 {
+    animation-delay: -15s;
+  }
+  #v2i15 {
+    animation-delay: -15.2s;
+  }
+  #v2a16 {
+    animation-delay: -15.4s;
+  }
+  #v2b16 {
+    animation-delay: -15.6s;
+  }
+  #v2e16 {
+    animation-delay: -15.8s;
+  }
+  #v2d16 {
+    animation-delay: -16s;
+  }
+  #v2i16 {
+    animation-delay: -16.2s;
+  }
+  #v2a17 {
+    animation-delay: -16.4s;
+  }
+  #v2b17 {
+    animation-delay: -16.6s;
+  }
+  #v2e17 {
+    animation-delay: -16.8s;
+  }
+  #v2d17 {
+    animation-delay: -17s;
+  }
+  #v2i17 {
+    animation-delay: -17.2s;
+  }
+  #v2a18 {
+    animation-delay: -17.4s;
+  }
+  #v2b18 {
+    animation-delay: -17.6s;
+  }
+  #v2e18 {
+    animation-delay: -17.8s;
+  }
+  #v2d18 {
+    animation-delay: -18s;
+  }
+  #v2i18 {
+    animation-delay: -18.2s;
+  }
+  #v2a19 {
+    animation-delay: -18.4s;
+  }
+  #v2b19 {
+    animation-delay: -18.6s;
+  }
+  #v2e19 {
+    animation-delay: -18.8s;
+  }
+  #v2d19 {
+    animation-delay: -19s;
+  }
+  #v2i19 {
+    animation-delay: -19.2s;
+  }
+  #v2a20 {
+    animation-delay: -19.4s;
+  }
+  #v2b20 {
+    animation-delay: -19.6s;
+  }
+  #v2e20 {
+    animation-delay: -19.8s;
+  }
+  #v2d20 {
+    animation-delay: -20s;
+  }
+  #v2i20 {
+    animation-delay: -20.2s;
+  }
+  #v2a21 {
+    animation-delay: -20.4s;
+  }
+  #v2b21 {
+    animation-delay: -20.6s;
+  }
+  #v2e21 {
+    animation-delay: -20.8s;
+  }
+  #v2d21 {
+    animation-delay: -21s;
+  }
+  #v2i21 {
+    animation-delay: -21.2s;
+  }
+  #v2a22 {
+    animation-delay: -21.4s;
+  }
+  #v2b22 {
+    animation-delay: -21.6s;
+  }
+  #v2e22 {
+    animation-delay: -21.8s;
+  }
+  #v2d22 {
+    animation-delay: -22s;
+  }
+  #v2i22 {
+    animation-delay: -22.2s;
+  }
+  #v2a23 {
+    animation-delay: -22.4s;
+  }
+  #v2b23 {
+    animation-delay: -22.6s;
+  }
+  #v2e23 {
+    animation-delay: -22.8s;
+  }
+  #v2d23 {
+    animation-delay: -23s;
+  }
+  #v2i23 {
+    animation-delay: -23.2s;
+  }
+  #v2a24 {
+    animation-delay: -23.4s;
+  }
+  #v2b24 {
+    animation-delay: -23.6s;
+  }
+  #v2e24 {
+    animation-delay: -23.8s;
+  }
+  #v2d24 {
+    animation-delay: -24s;
+  }
+  #v2i24 {
+    animation-delay: -24.2s;
+  }
+  #v2a25 {
+    animation-delay: -24.4s;
+  }
+  #v2b25 {
+    animation-delay: -24.6s;
+  }
+  #v2e25 {
+    animation-delay: -24.8s;
+  }
+  #v2d25 {
+    animation-delay: -25s;
+  }
+  #v2i25 {
+    animation-delay: -25.2s;
+  }
+  #v2a26 {
+    animation-delay: -25.4s;
+  }
+  #v2b26 {
+    animation-delay: -25.6s;
+  }
+  #v2e26 {
+    animation-delay: -25.8s;
+  }
+  #v2d26 {
+    animation-delay: -26s;
+  }
+  #v2i26 {
+    animation-delay: -26.2s;
+  }
+  #v2a27 {
+    animation-delay: -26.4s;
+  }
+  #v2b27 {
+    animation-delay: -26.6s;
+  }
+  #v2e27 {
+    animation-delay: -26.8s;
+  }
+  #v2d27 {
+    animation-delay: -27s;
+  }
+  #v2i27 {
+    animation-delay: -27.2s;
+  }
+  #v2a28 {
+    animation-delay: -27.4s;
+  }
+  #v2b28 {
+    animation-delay: -27.6s;
+  }
+  #v2e28 {
+    animation-delay: -27.8s;
+  }
+  #v2d28 {
+    animation-delay: -28s;
+  }
+  #v2i28 {
+    animation-delay: -28.2s;
+  }
+  #v2a29 {
+    animation-delay: -28.4s;
+  }
+  #v2b29 {
+    animation-delay: -28.6s;
+  }
+  #v2e29 {
+    animation-delay: -28.8s;
+  }
+  #v2d29 {
+    animation-delay: -29s;
+  }
+  #v2i29 {
+    animation-delay: -29.2s;
+  }
+  #v2a30 {
+    animation-delay: -29.4s;
+  }
+  #v2b30 {
+    animation-delay: -29.6s;
+  }
+  #v2e30 {
+    animation-delay: -29.8s;
+  }
+  #v2d30 {
+    animation-delay: -30s;
+  }
+  #v2i30 {
+    animation-delay: -30.2s;
+  }
+  #v2a31 {
+    animation-delay: -30.4s;
+  }
+  #v2b31 {
+    animation-delay: -30.6s;
+  }
+  #v2e31 {
+    animation-delay: -30.8s;
+  }
+  #v2d31 {
+    animation-delay: -31s;
+  }
+  #v2i31 {
+    animation-delay: -31.2s;
+  }
+
+  /* ЗЕЛЁНЫЙ третий ВЕРХНИЙ СЛОЙ на планшете */
+  .cell_green_one3 {
+    width: 68px;
+    height: 130px;
+    top: 58px;
+    margin: 0;
+    display: inline-block;
+    position: absolute;
+    background: url('../images/cell_green1.png');
+    animation: tissue_green3 11s linear infinite;
+  }
+  .cell_green_two3 {
+    width: 56px;
+    height: 126px;
+    top: 58px;
+    margin: 0;
+    display: inline-block;
+    position: absolute;
+    background: url('../images/cell_green2.png');
+    animation: tissue_green3 11s linear infinite;
+  }
+  .cell_green_three3 {
+    width: 53px;
+    height: 130px;
+    top: 58px;
+    margin: 0;
+    display: inline-block;
+    position: absolute;
+    background: url('../images/cell_green3.png');
+    animation: tissue_green3 11s linear infinite;
+  }
+  .cell_green_four3 {
+    width: 33px;
+    height: 125px;
+    top: 58px;
+    margin: 0;
+    display: inline-block;
+    position: absolute;
+    background: url('../images/cell_green4.png');
+    animation: tissue_green3 11s linear infinite;
+  }
+  .cell_green_five3 {
+    width: 54px;
+    height: 141px;
+    top: 58px;
+    margin: 0;
+    display: inline-block;
+    position: absolute;
+    background: url('../images/cell_green5.png');
+    animation: tissue_green3 11s linear infinite;
+  }
+  #v3b1 {
+    animation-delay: -.2s;
+  }
+  #v3e1 {
+    animation-delay: -.4s;
+  }
+  #v3d1 {
+    animation-delay: -.6s;
+  }
+  #v3i1 {
+    animation-delay: -.8s;
+  }
+  #v3a2 {
+    animation-delay: -1s;
+  }
+  #v3b2 {
+    animation-delay: -1.2s;
+  }
+  #v3e2 {
+    animation-delay: -1.4s;
+  }
+  #v3d2 {
+    animation-delay: -1.6s;
+  }
+  #v3i2 {
+    animation-delay: -1.8s;
+  }
+  #v3a3 {
+    animation-delay: -2s;
+  }
+  #v3b3 {
+    animation-delay: -2.2s;
+  }
+  #v3e3 {
+    animation-delay: -2.4s;
+  }
+  #v3d3 {
+    animation-delay: -2.6s;
+  }
+  #v3i3 {
+    animation-delay: -2.8s;
+  }
+  #v3a4 {
+    animation-delay: -3s;
+  }
+  #v3b4 {
+    animation-delay: -3.2s;
+  }
+  #v3e4 {
+    animation-delay: -3.4s;
+  }
+  #v3d4 {
+    animation-delay: -3.6s;
+  }
+  #v3i4 {
+    animation-delay: -3.8s;
+  }
+  #v3a5 {
+    animation-delay: -4s;
+  }
+  #v3b5 {
+    animation-delay: -4.2s;
+  }
+  #v3e5 {
+    animation-delay: -4.4s;
+  }
+  #v3d5 {
+    animation-delay: -4.6s;
+  }
+  #v3i5 {
+    animation-delay: -4.8s;
+  }
+  #v3a6 {
+    animation-delay: -5s;
+  }
+  #v3b6 {
+    animation-delay: -5.2s;
+  }
+  #v3e6 {
+    animation-delay: -5.4s;
+  }
+  #v3d6 {
+    animation-delay: -5.6s;
+  }
+  #v3i6 {
+    animation-delay: -5.8s;
+  }
+  #v3a7 {
+    animation-delay: -6s;
+  }
+  #v3b7 {
+    animation-delay: -6.2s;
+  }
+  #v3e7 {
+    animation-delay: -6.4s;
+  }
+  #v3d7 {
+    animation-delay: -6.6s;
+  }
+  #v3i7 {
+    animation-delay: -6.8s;
+  }
+  #v3a8 {
+    animation-delay: -7s;
+  }
+  #v3b8 {
+    animation-delay: -7.2s;
+  }
+  #v3e8 {
+    animation-delay: -7.4s;
+  }
+  #v3d8 {
+    animation-delay: -7.6s;
+  }
+  #v3i8 {
+    animation-delay: -7.8s;
+  }
+  #v3a9 {
+    animation-delay: -8s;
+  }
+  #v3b9 {
+    animation-delay: -8.2s;
+  }
+  #v3e9 {
+    animation-delay: -8.4s;
+  }
+  #v3d9 {
+    animation-delay: -8.6s;
+  }
+  #v3i9 {
+    animation-delay: -8.8s;
+  }
+  #v3a10 {
+    animation-delay: -9s;
+  }
+  #v3b10 {
+    animation-delay: -9.2s;
+  }
+  #v3e10 {
+    animation-delay: -9.4s;
+  }
+  #v3d10 {
+    animation-delay: -9.6s;
+  }
+  #v3i10 {
+    animation-delay: -9.8s;
+  }
+  #v3a11 {
+    animation-delay: -10s;
+  }
+  #v3b11 {
+    animation-delay: -10.2s;
+  }
+  #v3e11 {
+    animation-delay: -10.4s;
+  }
+  #v3d11 {
+    animation-delay: -10.6s;
+  }
+  #v3i11 {
+    animation-delay: -10.8s;
+  }
+  #v3a12 {
+    animation-delay: -11s;
+  }
+  #v3b12 {
+    animation-delay: -11.2s;
+  }
+  #v3e12 {
+    animation-delay: -11.4s;
+  }
+  #v3d12 {
+    animation-delay: -11.6s;
+  }
+  #v3i12 {
+    animation-delay: -11.8s;
+  }
+  #v3a13 {
+    animation-delay: -12s;
+  }
+  #v3b13 {
+    animation-delay: -12.2s;
+  }
+  #v3e13 {
+    animation-delay: -12.4s;
+  }
+  #v3d13 {
+    animation-delay: -12.6s;
+  }
+  #v3i13 {
+    animation-delay: -12.8s;
+  }
+  #v3a14 {
+    animation-delay: -13s;
+  }
+  #v3b14 {
+    animation-delay: -13.2s;
+  }
+  #v3e14 {
+    animation-delay: -13.4s;
+  }
+  #v3d14 {
+    animation-delay: -13.6s;
+  }
+  #v3i14 {
+    animation-delay: -13.8s;
+  }
+  #v3a15 {
+    animation-delay: -14s;
+  }
+  #v3b15 {
+    animation-delay: -14.2s;
+  }
+  #v3e15 {
+    animation-delay: -14.4s;
+  }
+  #v3d15 {
+    animation-delay: -14.6s;
+  }
+  #v3c15 {
+    animation-delay: -14.8s;
+  }
+  #v3d15 {
+    animation-delay: -15s;
+  }
+  #v3i15 {
+    animation-delay: -15.2s;
+  }
+  #v3a16 {
+    animation-delay: -15.4s;
+  }
+  #v3b16 {
+    animation-delay: -15.6s;
+  }
+  #v3e16 {
+    animation-delay: -15.8s;
+  }
+  #v3d16 {
+    animation-delay: -16s;
+  }
+  #v3i16 {
+    animation-delay: -16.2s;
+  }
+  #v3a17 {
+    animation-delay: -16.4s;
+  }
+  #v3b17 {
+    animation-delay: -16.6s;
+  }
+  #v3e17 {
+    animation-delay: -16.8s;
+  }
+  #v3d17 {
+    animation-delay: -17s;
+  }
+  #v3i17 {
+    animation-delay: -17.2s;
+  }
+  #v3a18 {
+    animation-delay: -17.4s;
+  }
+  #v3b18 {
+    animation-delay: -17.6s;
+  }
+  #v3e18 {
+    animation-delay: -17.8s;
+  }
+  #v3d18 {
+    animation-delay: -18s;
+  }
+  #v3i18 {
+    animation-delay: -18.2s;
+  }
+  #v3a19 {
+    animation-delay: -18.4s;
+  }
+  #v3b19 {
+    animation-delay: -18.6s;
+  }
+  #v3e19 {
+    animation-delay: -18.8s;
+  }
+  #v3d19 {
+    animation-delay: -19s;
+  }
+  #v3i19 {
+    animation-delay: -19.2s;
+  }
+  #v3a20 {
+    animation-delay: -19.4s;
+  }
+  #v3b20 {
+    animation-delay: -19.6s;
+  }
+  #v3e20 {
+    animation-delay: -19.8s;
+  }
+  #v3d20 {
+    animation-delay: -20s;
+  }
+  #v3i20 {
+    animation-delay: -20.2s;
+  }
+  #v3a21 {
+    animation-delay: -20.4s;
+  }
+  #v3b21 {
+    animation-delay: -20.6s;
+  }
+  #v3e21 {
+    animation-delay: -20.8s;
+  }
+  #v3d21 {
+    animation-delay: -21s;
+  }
+  #v3i21 {
+    animation-delay: -21.2s;
+  }
+  #v3a22 {
+    animation-delay: -21.4s;
+  }
+  #v3b22 {
+    animation-delay: -21.6s;
+  }
+  #v3e22 {
+    animation-delay: -21.8s;
+  }
+  #v3d22 {
+    animation-delay: -22s;
+  }
+  #v3i22 {
+    animation-delay: -22.2s;
+  }
+  #v3a23 {
+    animation-delay: -22.4s;
+  }
+  #v3b23 {
+    animation-delay: -22.6s;
+  }
+  #v3e23 {
+    animation-delay: -22.8s;
+  }
+  #v3d23 {
+    animation-delay: -23s;
+  }
+  #v3i23 {
+    animation-delay: -23.2s;
+  }
+  #v3a24 {
+    animation-delay: -23.4s;
+  }
+  #v3b24 {
+    animation-delay: -23.6s;
+  }
+  #v3e24 {
+    animation-delay: -23.8s;
+  }
+  #v3d24 {
+    animation-delay: -24s;
+  }
+  #v3i24 {
+    animation-delay: -24.2s;
+  }
+  #v3a25 {
+    animation-delay: -24.4s;
+  }
+  #v3b25 {
+    animation-delay: -24.6s;
+  }
+  #v3e25 {
+    animation-delay: -24.8s;
+  }
+  #v3d25 {
+    animation-delay: -25s;
+  }
+  #v3i25 {
+    animation-delay: -25.2s;
+  }
+  #v3a26 {
+    animation-delay: -25.4s;
+  }
+  #v3b26 {
+    animation-delay: -25.6s;
+  }
+  #v3e26 {
+    animation-delay: -25.8s;
+  }
+  #v3d26 {
+    animation-delay: -26s;
+  }
+  #v3i26 {
+    animation-delay: -26.2s;
+  }
+  #v3a27 {
+    animation-delay: -26.4s;
+  }
+  #v3b27 {
+    animation-delay: -26.6s;
+  }
+  #v3e27 {
+    animation-delay: -26.8s;
+  }
+  #v3d27 {
+    animation-delay: -27s;
+  }
+  #v3i27 {
+    animation-delay: -27.2s;
+  }
+  #v3a28 {
+    animation-delay: -27.4s;
+  }
+  #v3b28 {
+    animation-delay: -27.6s;
+  }
+  #v3e28 {
+    animation-delay: -27.8s;
+  }
+  #v3d28 {
+    animation-delay: -28s;
+  }
+  #v3i28 {
+    animation-delay: -28.2s;
+  }
+  #v3a29 {
+    animation-delay: -28.4s;
+  }
+  #v3b29 {
+    animation-delay: -28.6s;
+  }
+  #v3e29 {
+    animation-delay: -28.8s;
+  }
+  #v3d29 {
+    animation-delay: -29s;
+  }
+  #v3i29 {
+    animation-delay: -29.2s;
+  }
+  #v3a30 {
+    animation-delay: -29.4s;
+  }
+  #v3b30 {
+    animation-delay: -29.6s;
+  }
+  #v3e30 {
+    animation-delay: -29.8s;
+  }
+  #v3d30 {
+    animation-delay: -30s;
+  }
+  #v3i30 {
+    animation-delay: -30.2s;
+  }
+  #v3a31 {
+    animation-delay: -30.4s;
+  }
+  #v3b31 {
+    animation-delay: -30.6s;
+  }
+  #v3e31 {
+    animation-delay: -30.8s;
+  }
+  #v3d31 {
+    animation-delay: -31s;
+  }
+  #v3i31 {
+    animation-delay: -31.2s;
+  }
+
+
+  #gyb2 {
+    animation-delay: -1.2s;
+  }
+  #gyb3 {
+    animation-delay: -2.4s;
+  }
+  #gyb4 {
+    animation-delay: -3.6s;
+  }
+  #gyb5 {
+    animation-delay: -4.8s;
+  }
+  #gyb6 {
+    animation-delay: -6s;
+  }
+  #gyb7 {
+    animation-delay: -7.2s;
+  }
+  #gyb8 {
+    animation-delay: -8.4s;
+  }
+  #gyb9 {
+    display: none;
+    animation-delay: -8s;
+  }
+  #gyb10 {
+    display: none;
+    animation-delay: -9s;
+  }
+  #gyb11 {
+    display: none;
+    animation-delay: -10s;
+  }
+  #gyb12 {
+    display: none;
+    animation-delay: -8.8s;
+  }
+  #gyb13 {
+    display: none;
+    animation-delay: -9.6s;
+  }
+  #gyb14 {
+    display: none;
+    animation-delay: -10.4s;
+  }
+  #gyb15 {
+    display: none;
+    animation-delay: -11.2s;
+  }
+
+  @keyframes tissue1 {
+  0% {top: 1%; left: -3%;}
+  100% {top: 1%; left: 100%;}
+  }
+  @keyframes tissue_green {
+    0% {top: 7%; left: -3%;}
+    100% {top: 7%; left: 100%;}
+  }
+  @keyframes tissue1_down {
+    0% {top: 70%; left: -3%;}
+    100% {top: 70%; left: 100%;}
+  }
+  @keyframes tissue_green_down {
+    0% {bottom: 20%; left: -3%; transform: rotate(-90deg);}
+    100% {bottom: 20%; left: 100%; transform: rotate(-90deg);}
+  }
+  @keyframes tissue_green_down2 {
+    0% {bottom: 25%; left: -3%; transform: rotate(-90deg);}
+    100% {bottom: 25%; left: 100%; transform: rotate(-90deg);}
+  }
+  @keyframes tissue_green2 {
+      0% {top: 10%; left:  -6%;}
+      100% {top: 10%; left: 85%;}
+  }
+  @keyframes tissue_green3 {
+      0% {top: 15%; left:  -6%;}
+      100% {top: 15%; left: 85%;}
+  }
+  @keyframes middle_tissue_black {
+  0% {top: 30%; left: -25%;}
+  100% {top: 30%; left: 27%;}
+  }
+
 }
