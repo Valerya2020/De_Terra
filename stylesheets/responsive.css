@@ -635,7 +635,7 @@
 }
 
 /* 1440x900 (MacBook Pro ’15) */
-@media only screen and (min-width: 1440px) and (max-width: 1681px) {
+@media only screen and (min-width: 1440px) and (max-width: 1679px) {
   body {
     width: 2999px;
     height: 900px;
@@ -924,7 +924,7 @@
   }
 
 /* 1366x768 (MacBook Air ’11.6) */
-@media only screen and (min-width: 1366px) and (max-width: 1440px) {
+@media only screen and (min-width: 1366px) and (max-width: 1439px) {
   body {
     width: 2999px;
     height: 900px;
@@ -1072,7 +1072,7 @@
 /* 1280x800 (MacBook Pro ’13) - НАЧАЛЬНЫЙ */
 
 /* 1024x768 (iPad Landscape) */
-@media only screen and (min-width: 1024px) and (max-width: 1080px) {
+@media only screen and (min-width: 1024px) and (max-width: 1079px) {
   body {
     width: 2887px;
     height: 768px;
@@ -1892,7 +1892,7 @@
 }
 
 /* 768x1024 (iPad Portrait) */
-@media only screen and (min-width: 768px) and (max-width: 1024px) {
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
   body {
     width: 1915px;
     height: 1024px;
@@ -4021,7 +4021,7 @@
 
 
 /* 320–475 (iPhone SE) */
-@media only screen and (min-width: 320px) and (max-width: 768px) {
+@media only screen and (min-width: 320px) and (max-width: 767px) {
   body {
     width: 1346;
     height: 568px;
