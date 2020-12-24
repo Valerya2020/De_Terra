@@ -434,7 +434,6 @@
   right: 1070px;
   transform: rotate(-190deg);
 }
-/* ЗЕЛЁНЫЕ РИЗОМОРФЫ СПРАВА */
 
 
 /* СЛЕВА */
@@ -3508,6 +3507,296 @@
     animation-delay: -31.2s;
   }
 
+  /* ЗЕЛЁНЫЙ РИЗОМОРФ СПРАВА */
+  #rta2 {
+    top: calc(220px + 3%);
+    right: 800px;
+  }
+  #rta3 {
+    top: calc(160px + 3%);
+    right: 900px;
+    transform: rotate(190deg);
+  }
+  #rtb2 {
+    top: calc(220px + 3%);
+    right: 800px;
+  }
+  #rtb3 {
+    top: calc(160px + 3%);
+    right: 900px;
+    transform: rotate(180deg);
+  }
+  #rtc2 {
+    top: calc(220px + 3%);
+    right: 700px;
+    transform: rotate(45deg);
+  }
+  #rtc3 {
+    top: calc(240px + 3%);
+    right: 650px;
+    transform: rotate(30deg);
+  }
+  #rtd2 {
+    top: calc(170px + 3%);
+    right: 780px;
+    transform: rotate(70deg);
+  }
+  #rtd3 {
+    top: calc(170px + 3%);
+    right: 600px;
+    transform: rotate(100deg);
+  }
+  #rte2 {
+    top: calc(170px + 3%);
+    right: 1000px;
+    transform: rotate(80deg);
+  }
+  #rte3 {
+    top: calc(160px + 3%);
+    right: 900px;
+    transform: rotate(100deg);
+  }
+  #rtf2 {
+    top: calc(270px + 3%);
+    right: 1000px;
+    transform: rotate(80deg);
+  }
+  #rtf3 {
+    top: calc(360px + 3%);
+    right: 1190px;
+    transform: rotate(100deg);
+  }
+  #rtg2 {
+    top: calc(350px + 3%);
+    right: 1050px;
+  }
+  #rtg3 {
+    top: calc(260px + 3%);
+    right: 390px;
+    transform: rotate(100deg);
+  }
+  #rta4 {
+    top: calc(200px + 3%);
+    right: 190px;
+    transform: rotate(10deg);
+  }
+  #rtb4 {
+    top: calc(180px + 3%);
+    right: 330px;
+    transform: rotate(10deg);
+  }
+  #rtc4 {
+    top: calc(150px + 3%);
+    right: 630px;
+    transform: rotate(30deg);
+  }
+  #rtd4 {
+    top: calc(250px + 3%);
+    right: 1230px;
+    transform: rotate(30deg);
+  }
+  #rte4 {
+    top: calc(280px + 3%);
+    right: 1230px;
+  }
+  #rtf4 {
+    top: calc(310px + 3%);
+    right: 250px;
+    transform: rotate(30deg);
+  }
+  #rtg4 {
+    top: calc(300px + 3%);
+    right: 260px;
+    transform: rotate(60deg);
+  }
+  #rta5 {
+    top: 250px;
+    right: 1060px;
+    transform: rotate(-20deg);
+  }
+  #rta6 {
+    top: 100px;
+    right: 1060px;
+    transform: rotate(-20deg);
+  }
+  #rta7 {
+    top: 100px;
+    right: 1160px;
+    transform: rotate(-30deg);
+  }
+  #rtb6 {
+    top: 250px;
+    right: 1460px;
+    transform: rotate(-40deg);
+  }
+  #rtb7 {
+    top: 230px;
+    right: 1350px;
+    transform: rotate(90deg);
+  }
+  #rtc6 {
+    top: 370px;
+    right: 1550px;
+    transform: rotate(90deg);
+  }
+  #rtc7 {
+    top: 450px;
+    right: 1650px;
+    transform: rotate(100deg);
+  }
+  #rtd6 {
+    top: 430px;
+    right: 1570px;
+    transform: rotate(10deg);
+  }
+  #rtd7 {
+    top: 330px;
+    right: 1570px;
+    transform: rotate(30deg);
+  }
+  #rte6 {
+    top: 160px;
+    right: 160px;
+    transform: rotate(-40deg);
+  }
+  #rte7 {
+    top: 200px;
+    right: 50px;
+    transform: rotate(90deg);
+  }
+  #rtf6 {
+    top: 490px;
+    right: 1700px;
+    transform: rotate(90deg);
+  }
+  #rtf7 {
+    top: 300px;
+    right: 1650px;
+    transform: rotate(100deg);
+  }
+  #rtg6 {
+    top: 400px;
+    right: 1400px;
+    transform: rotate(10deg);
+  }
+  #rtg7 {
+    top: 330px;
+    right: 140px;
+    transform: rotate(30deg);
+  }
+
+  /* СПРАВА */
+  #mdr1 {
+    top: calc(250px + 25%);
+    right: 500px;
+    transform: rotate(50deg);
+  }
+  #mdr2 {
+    top: calc(220px + 25%);
+    right: 500px;
+    transform: rotate(90deg);
+  }
+  #mdr3 {
+    top: calc(200px + 25%);
+    right: 650px;
+    transform: rotate(180deg);
+  }
+  #mdr4 {
+    top: calc(260px + 25%);
+    right: 800px;
+    transform: rotate(270deg);
+  }
+  #mdr5 {
+    top: calc(220px + 25%);
+    right: 880px;
+  }
+  #mdr6 {
+    top: calc(220px + 25%);
+    right: 900px;
+    transform: rotate(80deg);
+  }
+  #mdr6 {
+    top: calc(220px + 25%);
+    right: 1050px;
+    transform: rotate(45deg);
+  }
+  #mdr7 {
+    top: calc(250px + 25%);
+    right: 1300px;
+    transform: rotate(60deg);
+    background-size: 70%;
+    background-repeat: no-repeat;
+  }
+  #mdr8 {
+    top: calc(120px + 25%);
+    right: 300px;
+    transform: rotate(-90deg);
+  }
+  #mdr9 {
+    top: calc(200px + 25%);
+    right: 1070px;
+    transform: rotate(-190deg);
+  }
+
+  /* СРЕДНЯЯ ЧЁРНАЯ ГУБЧАТАЯ ТКАНЬ */
+  /* .middle_tissue_black {
+    width: calc(355px + 5%);
+    height: calc(217px + 5%);
+  } */
+
+  /* ВТОРОЙ СЛОЙ ГУБЧАТОЙ ТКАНИ */
+  .middle_tissue_black2 {
+    width: 355px;
+    height: 217px;
+    position: absolute;
+    background: url('../images/middle_tissue.svg');
+    top: 160px;
+    left: 0px;
+    animation: middle_tissue_black2 10s linear reverse infinite;
+  }
+  #gyb2h {
+    animation-delay: -.8s;
+  }
+  #gyb3h {
+    animation-delay: -1.6s;
+  }
+  #gyb4h {
+    animation-delay: -2.4s;
+  }
+  #gyb5h {
+    animation-delay: -3.2s;
+  }
+  #gyb6h {
+    animation-delay: -4s;
+  }
+  #gyb7h {
+    animation-delay: -4.8s;
+  }
+  #gyb8h {
+    animation-delay: -5.6s;
+  }
+  #gyb9h {
+    animation-delay: -6.4s;
+  }
+  #gyb10h {
+    animation-delay: -7.2s;
+  }
+  #gyb11h {
+    animation-delay: -8s;
+  }
+  #gyb12h {
+    animation-delay: -8.8s;
+  }
+  #gyb13h {
+    animation-delay: -9.6s;
+  }
+  #gyb14h {
+    animation-delay: -10.4s;
+  }
+  #gyb15h {
+    animation-delay: -11.2s;
+  }
+
   @keyframes tissue1_down {
   0% {top: calc(100% - 67px); left: -3%;}
   12% {top: calc(100% - 67px); left: 12%;}
@@ -3645,6 +3934,25 @@
   48% {top: calc(430px + 22%); left: 48%; transform: rotate(-35deg);}
   100% {top: calc(-300px + 22%); left: 85%; transform: rotate(-45deg);}
 }
+@keyframes middle_tissue_black {
+0% {top: 55%; left: -25%;}
+1% {top: 55%; left: -15%;}
+20% {top: 55%; left: 12%; transform: rotate(0deg);}
+50% {top: 55%; left: 33%; transform: rotate(45deg);}
+55% {top: 55%; left: 34.1%; transform: rotate(0deg);}
+60% {top: 55%; left: 34.2%; transform: rotate(0deg);}
+100% {top: 55%; left: 35%; transform: rotate(0deg);}
+}
+@keyframes middle_tissue_black2 {
+0% {top: 70%; left: -25%;}
+1% {top: 70%; left: -15%;}
+20% {top: 70%; left: 12%;}
+50% {top: 70%; left: 33%;}
+55% {top: 70%; left: 34.1%;}
+60% {top: 70%; left: 34.2%;}
+100% {top: 70%; left: 35%;}
+}
+
 
 /* 320–475 (iPhone SE) */
 @media only screen and (min-width: 475px) and (max-width: 768px) {
