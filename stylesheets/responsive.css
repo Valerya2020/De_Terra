@@ -2468,6 +2468,1046 @@
     animation-duration: 11s;
   }
 
+  /* ЗЕЛЁНЫЙ второй ВЕРХНИЙ СЛОЙ на планшете */
+  .cell_green_one2 {
+    width: 68px;
+    height: 130px;
+    top: 58px;
+    margin: 0;
+    display: inline-block;
+    position: absolute;
+    background: url('../images/cell_green1.png');
+    animation: tissue_green2 11s linear reverse infinite;
+  }
+  .cell_green_two2 {
+    width: 56px;
+    height: 126px;
+    top: 58px;
+    margin: 0;
+    display: inline-block;
+    position: absolute;
+    background: url('../images/cell_green2.png');
+    animation: tissue_green2 11s linear reverse infinite;
+  }
+  .cell_green_three2 {
+    width: 53px;
+    height: 130px;
+    top: 58px;
+    margin: 0;
+    display: inline-block;
+    position: absolute;
+    background: url('../images/cell_green3.png');
+    animation: tissue_green2 11s linear reverse infinite;
+  }
+  .cell_green_four2 {
+    width: 33px;
+    height: 125px;
+    top: 58px;
+    margin: 0;
+    display: inline-block;
+    position: absolute;
+    background: url('../images/cell_green4.png');
+    animation: tissue_green2 11s linear reverse infinite;
+  }
+  .cell_green_five2 {
+    width: 54px;
+    height: 141px;
+    top: 58px;
+    margin: 0;
+    display: inline-block;
+    position: absolute;
+    background: url('../images/cell_green5.png');
+    animation: tissue_green2 11s linear reverse infinite;
+  }
+  #v2b1 {
+    animation-delay: -.2s;
+  }
+  #v2e1 {
+    animation-delay: -.4s;
+  }
+  #v2d1 {
+    animation-delay: -.6s;
+  }
+  #v2i1 {
+    animation-delay: -.8s;
+  }
+  #v2a2 {
+    animation-delay: -1s;
+  }
+  #v2b2 {
+    animation-delay: -1.2s;
+  }
+  #v2e2 {
+    animation-delay: -1.4s;
+  }
+  #v2d2 {
+    animation-delay: -1.6s;
+  }
+  #v2i2 {
+    animation-delay: -1.8s;
+  }
+  #v2a3 {
+    animation-delay: -2s;
+  }
+  #v2b3 {
+    animation-delay: -2.2s;
+  }
+  #v2e3 {
+    animation-delay: -2.4s;
+  }
+  #v2d3 {
+    animation-delay: -2.6s;
+  }
+  #v2i3 {
+    animation-delay: -2.8s;
+  }
+  #v2a4 {
+    animation-delay: -3s;
+  }
+  #v2b4 {
+    animation-delay: -3.2s;
+  }
+  #v2e4 {
+    animation-delay: -3.4s;
+  }
+  #v2d4 {
+    animation-delay: -3.6s;
+  }
+  #v2i4 {
+    animation-delay: -3.8s;
+  }
+  #v2a5 {
+    animation-delay: -4s;
+  }
+  #v2b5 {
+    animation-delay: -4.2s;
+  }
+  #v2e5 {
+    animation-delay: -4.4s;
+  }
+  #v2d5 {
+    animation-delay: -4.6s;
+  }
+  #v2i5 {
+    animation-delay: -4.8s;
+  }
+  #v2a6 {
+    animation-delay: -5s;
+  }
+  #v2b6 {
+    animation-delay: -5.2s;
+  }
+  #v2e6 {
+    animation-delay: -5.4s;
+  }
+  #v2d6 {
+    animation-delay: -5.6s;
+  }
+  #v2i6 {
+    animation-delay: -5.8s;
+  }
+  #v2a7 {
+    animation-delay: -6s;
+  }
+  #v2b7 {
+    animation-delay: -6.2s;
+  }
+  #v2e7 {
+    animation-delay: -6.4s;
+  }
+  #v2d7 {
+    animation-delay: -6.6s;
+  }
+  #v2i7 {
+    animation-delay: -6.8s;
+  }
+  #v2a8 {
+    animation-delay: -7s;
+  }
+  #v2b8 {
+    animation-delay: -7.2s;
+  }
+  #v2e8 {
+    animation-delay: -7.4s;
+  }
+  #v2d8 {
+    animation-delay: -7.6s;
+  }
+  #v2i8 {
+    animation-delay: -7.8s;
+  }
+  #v2a9 {
+    animation-delay: -8s;
+  }
+  #v2b9 {
+    animation-delay: -8.2s;
+  }
+  #v2e9 {
+    animation-delay: -8.4s;
+  }
+  #v2d9 {
+    animation-delay: -8.6s;
+  }
+  #v2i9 {
+    animation-delay: -8.8s;
+  }
+  #v2a10 {
+    animation-delay: -9s;
+  }
+  #v2b10 {
+    animation-delay: -9.2s;
+  }
+  #v2e10 {
+    animation-delay: -9.4s;
+  }
+  #v2d10 {
+    animation-delay: -9.6s;
+  }
+  #v2i10 {
+    animation-delay: -9.8s;
+  }
+  #v2a11 {
+    animation-delay: -10s;
+  }
+  #v2b11 {
+    animation-delay: -10.2s;
+  }
+  #v2e11 {
+    animation-delay: -10.4s;
+  }
+  #v2d11 {
+    animation-delay: -10.6s;
+  }
+  #v2i11 {
+    animation-delay: -10.8s;
+  }
+  #v2a12 {
+    animation-delay: -11s;
+  }
+  #v2b12 {
+    animation-delay: -11.2s;
+  }
+  #v2e12 {
+    animation-delay: -11.4s;
+  }
+  #v2d12 {
+    animation-delay: -11.6s;
+  }
+  #v2i12 {
+    animation-delay: -11.8s;
+  }
+  #v2a13 {
+    animation-delay: -12s;
+  }
+  #v2b13 {
+    animation-delay: -12.2s;
+  }
+  #v2e13 {
+    animation-delay: -12.4s;
+  }
+  #v2d13 {
+    animation-delay: -12.6s;
+  }
+  #v2i13 {
+    animation-delay: -12.8s;
+  }
+  #v2a14 {
+    animation-delay: -13s;
+  }
+  #v2b14 {
+    animation-delay: -13.2s;
+  }
+  #v2e14 {
+    animation-delay: -13.4s;
+  }
+  #v2d14 {
+    animation-delay: -13.6s;
+  }
+  #v2i14 {
+    animation-delay: -13.8s;
+  }
+  #v2a15 {
+    animation-delay: -14s;
+  }
+  #v2b15 {
+    animation-delay: -14.2s;
+  }
+  #v2e15 {
+    animation-delay: -14.4s;
+  }
+  #v2d15 {
+    animation-delay: -14.6s;
+  }
+  #v2c15 {
+    animation-delay: -14.8s;
+  }
+  #v2d15 {
+    animation-delay: -15s;
+  }
+  #v2i15 {
+    animation-delay: -15.2s;
+  }
+  #v2a16 {
+    animation-delay: -15.4s;
+  }
+  #v2b16 {
+    animation-delay: -15.6s;
+  }
+  #v2e16 {
+    animation-delay: -15.8s;
+  }
+  #v2d16 {
+    animation-delay: -16s;
+  }
+  #v2i16 {
+    animation-delay: -16.2s;
+  }
+  #v2a17 {
+    animation-delay: -16.4s;
+  }
+  #v2b17 {
+    animation-delay: -16.6s;
+  }
+  #v2e17 {
+    animation-delay: -16.8s;
+  }
+  #v2d17 {
+    animation-delay: -17s;
+  }
+  #v2i17 {
+    animation-delay: -17.2s;
+  }
+  #v2a18 {
+    animation-delay: -17.4s;
+  }
+  #v2b18 {
+    animation-delay: -17.6s;
+  }
+  #v2e18 {
+    animation-delay: -17.8s;
+  }
+  #v2d18 {
+    animation-delay: -18s;
+  }
+  #v2i18 {
+    animation-delay: -18.2s;
+  }
+  #v2a19 {
+    animation-delay: -18.4s;
+  }
+  #v2b19 {
+    animation-delay: -18.6s;
+  }
+  #v2e19 {
+    animation-delay: -18.8s;
+  }
+  #v2d19 {
+    animation-delay: -19s;
+  }
+  #v2i19 {
+    animation-delay: -19.2s;
+  }
+  #v2a20 {
+    animation-delay: -19.4s;
+  }
+  #v2b20 {
+    animation-delay: -19.6s;
+  }
+  #v2e20 {
+    animation-delay: -19.8s;
+  }
+  #v2d20 {
+    animation-delay: -20s;
+  }
+  #v2i20 {
+    animation-delay: -20.2s;
+  }
+  #v2a21 {
+    animation-delay: -20.4s;
+  }
+  #v2b21 {
+    animation-delay: -20.6s;
+  }
+  #v2e21 {
+    animation-delay: -20.8s;
+  }
+  #v2d21 {
+    animation-delay: -21s;
+  }
+  #v2i21 {
+    animation-delay: -21.2s;
+  }
+  #v2a22 {
+    animation-delay: -21.4s;
+  }
+  #v2b22 {
+    animation-delay: -21.6s;
+  }
+  #v2e22 {
+    animation-delay: -21.8s;
+  }
+  #v2d22 {
+    animation-delay: -22s;
+  }
+  #v2i22 {
+    animation-delay: -22.2s;
+  }
+  #v2a23 {
+    animation-delay: -22.4s;
+  }
+  #v2b23 {
+    animation-delay: -22.6s;
+  }
+  #v2e23 {
+    animation-delay: -22.8s;
+  }
+  #v2d23 {
+    animation-delay: -23s;
+  }
+  #v2i23 {
+    animation-delay: -23.2s;
+  }
+  #v2a24 {
+    animation-delay: -23.4s;
+  }
+  #v2b24 {
+    animation-delay: -23.6s;
+  }
+  #v2e24 {
+    animation-delay: -23.8s;
+  }
+  #v2d24 {
+    animation-delay: -24s;
+  }
+  #v2i24 {
+    animation-delay: -24.2s;
+  }
+  #v2a25 {
+    animation-delay: -24.4s;
+  }
+  #v2b25 {
+    animation-delay: -24.6s;
+  }
+  #v2e25 {
+    animation-delay: -24.8s;
+  }
+  #v2d25 {
+    animation-delay: -25s;
+  }
+  #v2i25 {
+    animation-delay: -25.2s;
+  }
+  #v2a26 {
+    animation-delay: -25.4s;
+  }
+  #v2b26 {
+    animation-delay: -25.6s;
+  }
+  #v2e26 {
+    animation-delay: -25.8s;
+  }
+  #v2d26 {
+    animation-delay: -26s;
+  }
+  #v2i26 {
+    animation-delay: -26.2s;
+  }
+  #v2a27 {
+    animation-delay: -26.4s;
+  }
+  #v2b27 {
+    animation-delay: -26.6s;
+  }
+  #v2e27 {
+    animation-delay: -26.8s;
+  }
+  #v2d27 {
+    animation-delay: -27s;
+  }
+  #v2i27 {
+    animation-delay: -27.2s;
+  }
+  #v2a28 {
+    animation-delay: -27.4s;
+  }
+  #v2b28 {
+    animation-delay: -27.6s;
+  }
+  #v2e28 {
+    animation-delay: -27.8s;
+  }
+  #v2d28 {
+    animation-delay: -28s;
+  }
+  #v2i28 {
+    animation-delay: -28.2s;
+  }
+  #v2a29 {
+    animation-delay: -28.4s;
+  }
+  #v2b29 {
+    animation-delay: -28.6s;
+  }
+  #v2e29 {
+    animation-delay: -28.8s;
+  }
+  #v2d29 {
+    animation-delay: -29s;
+  }
+  #v2i29 {
+    animation-delay: -29.2s;
+  }
+  #v2a30 {
+    animation-delay: -29.4s;
+  }
+  #v2b30 {
+    animation-delay: -29.6s;
+  }
+  #v2e30 {
+    animation-delay: -29.8s;
+  }
+  #v2d30 {
+    animation-delay: -30s;
+  }
+  #v2i30 {
+    animation-delay: -30.2s;
+  }
+  #v2a31 {
+    animation-delay: -30.4s;
+  }
+  #v2b31 {
+    animation-delay: -30.6s;
+  }
+  #v2e31 {
+    animation-delay: -30.8s;
+  }
+  #v2d31 {
+    animation-delay: -31s;
+  }
+  #v2i31 {
+    animation-delay: -31.2s;
+  }
+
+  /* ЗЕЛЁНЫЙ третий ВЕРХНИЙ СЛОЙ на планшете */
+  .cell_green_one3 {
+    width: 68px;
+    height: 130px;
+    top: 58px;
+    margin: 0;
+    display: inline-block;
+    position: absolute;
+    background: url('../images/cell_green1.png');
+    animation: tissue_green3 11s linear infinite;
+  }
+  .cell_green_two3 {
+    width: 56px;
+    height: 126px;
+    top: 58px;
+    margin: 0;
+    display: inline-block;
+    position: absolute;
+    background: url('../images/cell_green2.png');
+    animation: tissue_green3 11s linear infinite;
+  }
+  .cell_green_three3 {
+    width: 53px;
+    height: 130px;
+    top: 58px;
+    margin: 0;
+    display: inline-block;
+    position: absolute;
+    background: url('../images/cell_green3.png');
+    animation: tissue_green3 11s linear infinite;
+  }
+  .cell_green_four3 {
+    width: 33px;
+    height: 125px;
+    top: 58px;
+    margin: 0;
+    display: inline-block;
+    position: absolute;
+    background: url('../images/cell_green4.png');
+    animation: tissue_green3 11s linear infinite;
+  }
+  .cell_green_five3 {
+    width: 54px;
+    height: 141px;
+    top: 58px;
+    margin: 0;
+    display: inline-block;
+    position: absolute;
+    background: url('../images/cell_green5.png');
+    animation: tissue_green3 11s linear infinite;
+  }
+  #v3b1 {
+    animation-delay: -.2s;
+  }
+  #v3e1 {
+    animation-delay: -.4s;
+  }
+  #v3d1 {
+    animation-delay: -.6s;
+  }
+  #v3i1 {
+    animation-delay: -.8s;
+  }
+  #v3a2 {
+    animation-delay: -1s;
+  }
+  #v3b2 {
+    animation-delay: -1.2s;
+  }
+  #v3e2 {
+    animation-delay: -1.4s;
+  }
+  #v3d2 {
+    animation-delay: -1.6s;
+  }
+  #v3i2 {
+    animation-delay: -1.8s;
+  }
+  #v3a3 {
+    animation-delay: -2s;
+  }
+  #v3b3 {
+    animation-delay: -2.2s;
+  }
+  #v3e3 {
+    animation-delay: -2.4s;
+  }
+  #v3d3 {
+    animation-delay: -2.6s;
+  }
+  #v3i3 {
+    animation-delay: -2.8s;
+  }
+  #v3a4 {
+    animation-delay: -3s;
+  }
+  #v3b4 {
+    animation-delay: -3.2s;
+  }
+  #v3e4 {
+    animation-delay: -3.4s;
+  }
+  #v3d4 {
+    animation-delay: -3.6s;
+  }
+  #v3i4 {
+    animation-delay: -3.8s;
+  }
+  #v3a5 {
+    animation-delay: -4s;
+  }
+  #v3b5 {
+    animation-delay: -4.2s;
+  }
+  #v3e5 {
+    animation-delay: -4.4s;
+  }
+  #v3d5 {
+    animation-delay: -4.6s;
+  }
+  #v3i5 {
+    animation-delay: -4.8s;
+  }
+  #v3a6 {
+    animation-delay: -5s;
+  }
+  #v3b6 {
+    animation-delay: -5.2s;
+  }
+  #v3e6 {
+    animation-delay: -5.4s;
+  }
+  #v3d6 {
+    animation-delay: -5.6s;
+  }
+  #v3i6 {
+    animation-delay: -5.8s;
+  }
+  #v3a7 {
+    animation-delay: -6s;
+  }
+  #v3b7 {
+    animation-delay: -6.2s;
+  }
+  #v3e7 {
+    animation-delay: -6.4s;
+  }
+  #v3d7 {
+    animation-delay: -6.6s;
+  }
+  #v3i7 {
+    animation-delay: -6.8s;
+  }
+  #v3a8 {
+    animation-delay: -7s;
+  }
+  #v3b8 {
+    animation-delay: -7.2s;
+  }
+  #v3e8 {
+    animation-delay: -7.4s;
+  }
+  #v3d8 {
+    animation-delay: -7.6s;
+  }
+  #v3i8 {
+    animation-delay: -7.8s;
+  }
+  #v3a9 {
+    animation-delay: -8s;
+  }
+  #v3b9 {
+    animation-delay: -8.2s;
+  }
+  #v3e9 {
+    animation-delay: -8.4s;
+  }
+  #v3d9 {
+    animation-delay: -8.6s;
+  }
+  #v3i9 {
+    animation-delay: -8.8s;
+  }
+  #v3a10 {
+    animation-delay: -9s;
+  }
+  #v3b10 {
+    animation-delay: -9.2s;
+  }
+  #v3e10 {
+    animation-delay: -9.4s;
+  }
+  #v3d10 {
+    animation-delay: -9.6s;
+  }
+  #v3i10 {
+    animation-delay: -9.8s;
+  }
+  #v3a11 {
+    animation-delay: -10s;
+  }
+  #v3b11 {
+    animation-delay: -10.2s;
+  }
+  #v3e11 {
+    animation-delay: -10.4s;
+  }
+  #v3d11 {
+    animation-delay: -10.6s;
+  }
+  #v3i11 {
+    animation-delay: -10.8s;
+  }
+  #v3a12 {
+    animation-delay: -11s;
+  }
+  #v3b12 {
+    animation-delay: -11.2s;
+  }
+  #v3e12 {
+    animation-delay: -11.4s;
+  }
+  #v3d12 {
+    animation-delay: -11.6s;
+  }
+  #v3i12 {
+    animation-delay: -11.8s;
+  }
+  #v3a13 {
+    animation-delay: -12s;
+  }
+  #v3b13 {
+    animation-delay: -12.2s;
+  }
+  #v3e13 {
+    animation-delay: -12.4s;
+  }
+  #v3d13 {
+    animation-delay: -12.6s;
+  }
+  #v3i13 {
+    animation-delay: -12.8s;
+  }
+  #v3a14 {
+    animation-delay: -13s;
+  }
+  #v3b14 {
+    animation-delay: -13.2s;
+  }
+  #v3e14 {
+    animation-delay: -13.4s;
+  }
+  #v3d14 {
+    animation-delay: -13.6s;
+  }
+  #v3i14 {
+    animation-delay: -13.8s;
+  }
+  #v3a15 {
+    animation-delay: -14s;
+  }
+  #v3b15 {
+    animation-delay: -14.2s;
+  }
+  #v3e15 {
+    animation-delay: -14.4s;
+  }
+  #v3d15 {
+    animation-delay: -14.6s;
+  }
+  #v3c15 {
+    animation-delay: -14.8s;
+  }
+  #v3d15 {
+    animation-delay: -15s;
+  }
+  #v3i15 {
+    animation-delay: -15.2s;
+  }
+  #v3a16 {
+    animation-delay: -15.4s;
+  }
+  #v3b16 {
+    animation-delay: -15.6s;
+  }
+  #v3e16 {
+    animation-delay: -15.8s;
+  }
+  #v3d16 {
+    animation-delay: -16s;
+  }
+  #v3i16 {
+    animation-delay: -16.2s;
+  }
+  #v3a17 {
+    animation-delay: -16.4s;
+  }
+  #v3b17 {
+    animation-delay: -16.6s;
+  }
+  #v3e17 {
+    animation-delay: -16.8s;
+  }
+  #v3d17 {
+    animation-delay: -17s;
+  }
+  #v3i17 {
+    animation-delay: -17.2s;
+  }
+  #v3a18 {
+    animation-delay: -17.4s;
+  }
+  #v3b18 {
+    animation-delay: -17.6s;
+  }
+  #v3e18 {
+    animation-delay: -17.8s;
+  }
+  #v3d18 {
+    animation-delay: -18s;
+  }
+  #v3i18 {
+    animation-delay: -18.2s;
+  }
+  #v3a19 {
+    animation-delay: -18.4s;
+  }
+  #v3b19 {
+    animation-delay: -18.6s;
+  }
+  #v3e19 {
+    animation-delay: -18.8s;
+  }
+  #v3d19 {
+    animation-delay: -19s;
+  }
+  #v3i19 {
+    animation-delay: -19.2s;
+  }
+  #v3a20 {
+    animation-delay: -19.4s;
+  }
+  #v3b20 {
+    animation-delay: -19.6s;
+  }
+  #v3e20 {
+    animation-delay: -19.8s;
+  }
+  #v3d20 {
+    animation-delay: -20s;
+  }
+  #v3i20 {
+    animation-delay: -20.2s;
+  }
+  #v3a21 {
+    animation-delay: -20.4s;
+  }
+  #v3b21 {
+    animation-delay: -20.6s;
+  }
+  #v3e21 {
+    animation-delay: -20.8s;
+  }
+  #v3d21 {
+    animation-delay: -21s;
+  }
+  #v3i21 {
+    animation-delay: -21.2s;
+  }
+  #v3a22 {
+    animation-delay: -21.4s;
+  }
+  #v3b22 {
+    animation-delay: -21.6s;
+  }
+  #v3e22 {
+    animation-delay: -21.8s;
+  }
+  #v3d22 {
+    animation-delay: -22s;
+  }
+  #v3i22 {
+    animation-delay: -22.2s;
+  }
+  #v3a23 {
+    animation-delay: -22.4s;
+  }
+  #v3b23 {
+    animation-delay: -22.6s;
+  }
+  #v3e23 {
+    animation-delay: -22.8s;
+  }
+  #v3d23 {
+    animation-delay: -23s;
+  }
+  #v3i23 {
+    animation-delay: -23.2s;
+  }
+  #v3a24 {
+    animation-delay: -23.4s;
+  }
+  #v3b24 {
+    animation-delay: -23.6s;
+  }
+  #v3e24 {
+    animation-delay: -23.8s;
+  }
+  #v3d24 {
+    animation-delay: -24s;
+  }
+  #v3i24 {
+    animation-delay: -24.2s;
+  }
+  #v3a25 {
+    animation-delay: -24.4s;
+  }
+  #v3b25 {
+    animation-delay: -24.6s;
+  }
+  #v3e25 {
+    animation-delay: -24.8s;
+  }
+  #v3d25 {
+    animation-delay: -25s;
+  }
+  #v3i25 {
+    animation-delay: -25.2s;
+  }
+  #v3a26 {
+    animation-delay: -25.4s;
+  }
+  #v3b26 {
+    animation-delay: -25.6s;
+  }
+  #v3e26 {
+    animation-delay: -25.8s;
+  }
+  #v3d26 {
+    animation-delay: -26s;
+  }
+  #v3i26 {
+    animation-delay: -26.2s;
+  }
+  #v3a27 {
+    animation-delay: -26.4s;
+  }
+  #v3b27 {
+    animation-delay: -26.6s;
+  }
+  #v3e27 {
+    animation-delay: -26.8s;
+  }
+  #v3d27 {
+    animation-delay: -27s;
+  }
+  #v3i27 {
+    animation-delay: -27.2s;
+  }
+  #v3a28 {
+    animation-delay: -27.4s;
+  }
+  #v3b28 {
+    animation-delay: -27.6s;
+  }
+  #v3e28 {
+    animation-delay: -27.8s;
+  }
+  #v3d28 {
+    animation-delay: -28s;
+  }
+  #v3i28 {
+    animation-delay: -28.2s;
+  }
+  #v3a29 {
+    animation-delay: -28.4s;
+  }
+  #v3b29 {
+    animation-delay: -28.6s;
+  }
+  #v3e29 {
+    animation-delay: -28.8s;
+  }
+  #v3d29 {
+    animation-delay: -29s;
+  }
+  #v3i29 {
+    animation-delay: -29.2s;
+  }
+  #v3a30 {
+    animation-delay: -29.4s;
+  }
+  #v3b30 {
+    animation-delay: -29.6s;
+  }
+  #v3e30 {
+    animation-delay: -29.8s;
+  }
+  #v3d30 {
+    animation-delay: -30s;
+  }
+  #v3i30 {
+    animation-delay: -30.2s;
+  }
+  #v3a31 {
+    animation-delay: -30.4s;
+  }
+  #v3b31 {
+    animation-delay: -30.6s;
+  }
+  #v3e31 {
+    animation-delay: -30.8s;
+  }
+  #v3d31 {
+    animation-delay: -31s;
+  }
+  #v3i31 {
+    animation-delay: -31.2s;
+  }
+
   @keyframes tissue1_down {
   0% {top: calc(100% - 67px); left: -3%;}
   12% {top: calc(100% - 67px); left: 12%;}
@@ -2570,6 +3610,40 @@
   45% {top: 470px; left: 45%; transform: rotate(-25deg);}
   48% {top: 430px; left: 48%; transform: rotate(-35deg);}
   100% {top: -300px; left: 85%; transform: rotate(-45deg);}
+}
+@keyframes tissue_green2 {
+  0% {top: calc(150px + 11%); left:  -6%; transform: rotate(30deg);}
+  12 % {top: calc(260px + 11%); left:  12%;}
+  15% {top: calc(340px + 11%); left:   15%;}
+  18% {top: calc(360px + 11%); left:  18%;}
+  21% {top: calc(390px + 11%); left:  21%;}
+  24% {top: calc(410px + 11%); left: 24%; transform: rotate(25deg);}
+  27% {top: calc(440px + 11%); left: 27%; transform: rotate(25deg);}
+  30% {top: calc(460px + 11%); left: 30%; transform: rotate(17deg);}
+  33% {top: calc(470px + 11%); left: 33%; transform: rotate(0deg);}
+  36% {top: calc(480px + 11%); left:  36%; transform: rotate(-10deg);}
+  39% {top: calc(490px + 11%); left:  39%; transform: rotate(-6deg);}
+  42% {top: calc(480px + 11%); left: 42%; transform: rotate(0deg);}
+  45% {top: calc(470px + 11%); left: 45%; transform: rotate(-25deg);}
+  48% {top: calc(430px + 11%); left: 48%; transform: rotate(-35deg);}
+  100% {top: calc(-300px + 11%); left: 85%; transform: rotate(-45deg);}
+}
+@keyframes tissue_green3 {
+  0% {top: calc(150px + 22%); left:  -6%; transform: rotate(30deg);}
+  12 % {top: calc(260px + 22%); left:  12%;}
+  15% {top: calc(340px + 22%); left:   15%;}
+  18% {top: calc(360px + 22%); left:  18%;}
+  21% {top: calc(390px + 22%); left:  21%;}
+  24% {top: calc(410px + 22%); left: 24%; transform: rotate(25deg);}
+  27% {top: calc(440px + 22%); left: 27%; transform: rotate(25deg);}
+  30% {top: calc(460px + 22%); left: 30%; transform: rotate(17deg);}
+  33% {top: calc(470px + 22%); left: 33%; transform: rotate(0deg);}
+  36% {top: calc(480px + 22%); left:  36%; transform: rotate(-10deg);}
+  39% {top: calc(490px + 22%); left:  39%; transform: rotate(-6deg);}
+  42% {top: calc(480px + 22%); left: 42%; transform: rotate(0deg);}
+  45% {top: calc(470px + 22%); left: 45%; transform: rotate(-25deg);}
+  48% {top: calc(430px + 22%); left: 48%; transform: rotate(-35deg);}
+  100% {top: calc(-300px + 22%); left: 85%; transform: rotate(-45deg);}
 }
 
 /* 320–475 (iPhone SE) */
