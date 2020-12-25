@@ -5647,31 +5647,31 @@
     animation-delay: -8.4s;
   }
   #gyb9 {
-    display: none;
+    opacity: 0;
     animation-delay: -8s;
   }
   #gyb10 {
-    display: none;
+    opacity: 0;
     animation-delay: -9s;
   }
   #gyb11 {
-    display: none;
+    opacity: 0;
     animation-delay: -10s;
   }
   #gyb12 {
-    display: none;
+    opacity: 0;
     animation-delay: -8.8s;
   }
   #gyb13 {
-    display: none;
+    opacity: 0;
     animation-delay: -9.6s;
   }
   #gyb14 {
-    display: none;
+    opacity: 0;
     animation-delay: -10.4s;
   }
   #gyb15 {
-    display: none;
+    opacity: 0;
     animation-delay: -11.2s;
   }
 
@@ -5880,7 +5880,7 @@
   #mdr19 {
     display: none;
   }
-  #mdr20 {
+  #mdr2 {
     display: none;
   }
 
