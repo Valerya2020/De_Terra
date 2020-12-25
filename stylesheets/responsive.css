@@ -8,6 +8,10 @@
     width: 3719px;
     height: 1050px;
 }
+.ring {
+  top: -26%;
+  right: -12%;
+}
 .volvox {
   top:150px;
   left: 1450px;
@@ -1900,6 +1904,10 @@
   .main {
     width: 1915px;
     height: 1024px;
+  }
+  .ring {
+    top: -27%;
+    right: -20%;
   }
   .volvox {
     top: 45%;

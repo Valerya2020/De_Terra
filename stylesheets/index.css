@@ -13,9 +13,15 @@ html {
 }
 
 h1 {font-family: "Europe";
-    font-size: 21px;}
-p {font-family: "Europe";
-  font-size: 18px;}
+    font-size: 21px;
+    color: white;
+    margin-top: 18%;
+    margin-left: 30%;
+  }
+p {font-family: "futura";
+  font-size: 18px;
+  color: white;
+}
 .main {
   width: 2794px;
   height: 800px;
